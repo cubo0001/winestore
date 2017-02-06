@@ -1,0 +1,72 @@
+.tz-remove{
+    display: none;
+    padding: 10px;
+    background: red;
+    border: 0;
+}
+.tz-remove-block{
+    display: block;
+}
+.tzpreview{
+    padding: 10px;
+    background: #f0f0f0;
+    margin: 10px 0 30px;
+}
+.tzpreview span{
+    background-color: #f7f7f9;
+    color: #d14;
+    display: block;
+    font-size: 14px;
+    line-height: 25px;
+}
+.tzpreview span.shortcode-preview-c{
+    padding-left: 20px;
+}
+.image-upload-value{
+    width: 65%;
+    height: 32px;
+    margin-top: 2px;
+}
+.create_image_item{
+    margin-bottom: 15px;
+    position: relative;
+}
+.tzupload-image{
+    height: 32px;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border: 1px solid #bbbbb9;
+    cursor: pointer;
+}
+
+.fancybox-overlay{
+    z-index: 9999999!important;
+}
+
+#create_dropcap .create_content{
+    padding:30px 0px;
+}
+
+#create_dropcap .create_content .TzDropcapContainer label{
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    color: #222222;
+    margin-bottom: 20px;
+}
+#create_dropcap .create_content .TzDropcapContainer select{
+    width: 100%;
+    font-size: 12px;
+    color: #222222;
+    padding: 10px 15px;
+    height: auto;
+}
+#create_dropcap .create_content .TzDropcapContainer input{
+    width: 100%;
+    font-size: 12px;
+    color: #222222;
+    padding: 10px 15px;
+}
