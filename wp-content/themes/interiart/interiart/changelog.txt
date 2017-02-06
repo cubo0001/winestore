@@ -1,0 +1,7 @@
+
+05.03.2016
+- initial Version 1.0
+
+11.03.2016
+- Next Version 1.1
+ + Update One-click demo install.

@@ -1,0 +1,48 @@
+form .create_content{
+    margin:0px 0px 30px;
+}
+form .create_content .form-group{
+    margin-bottom: 30px;
+}
+form .create_content .form-group label{
+    font-size: 14px;
+    color: #222222;
+    margin-bottom: 15px;
+    display: block;
+}
+form .create_content .form-group input{
+    width: 100%;
+    font-size: 12px;
+    color: #222222;
+    margin-bottom: 15px;
+    border-radius:0;
+}
+form .create_content .form-group textarea{
+    width: 100%;
+    font-size: 12px;
+    color: #222222;
+    margin-bottom: 15px;
+    border-radius:0;
+}
+form .create_content .form-group select{
+    width: 100%;
+    font-size: 12px;
+    color: #222222;
+    padding: 10px 15px;
+}
+form .create_content .create_item{
+    position: relative;
+    border: 1px solid #dddddd;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+form .create_content .create_item .tz-remove{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+    background: url("../images/button_remove.png");
+    border:none;
+    padding:0px;
+}
