@@ -26,7 +26,6 @@ if($interiart_Sidebar == 'right' || $interiart_Sidebar == 'left'){
 }
 ?>
 <div class="tzShopDetail-wrap">
-    <div class="container">
         <div class="row">
             <?php
             if($interiart_Sidebar == 'left'){
@@ -65,7 +64,6 @@ if($interiart_Sidebar == 'right' || $interiart_Sidebar == 'left'){
             }
             ?>
         </div>
-    </div>
 </div>
 
 <?php
