@@ -31,7 +31,7 @@ global $post, $woocommerce, $product;
 
                     $image_html = '<img class="product-slider-image" data-zoom-image="'.$image_link.'" src="'.$image[0].'" alt="'.$image_alt.'" title="'.$image_title.'" />';
 
-                    echo apply_filters( 'woocommerce_single_product_image_html', sprintf( '<li class="%s">%s<a href="%s" itemprop="image" class="woocommerce-main-image zoom" data-rel="prettyPhoto[product-gallery]"><i class="fa fa-search"></i>zoom</a><a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a><a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a></li>', $image_title, $image_html, $image_link), $post->ID );
+                    echo apply_filters( 'woocommerce_single_product_image_html', sprintf( '<li class="%s">%s<a href="%s" itemprop="image" class="woocommerce-main-image zoom" data-rel="prettyPhoto[product-gallery]"><i class="fa fa-search"></i>zoom</a></li>', $image_title, $image_html, $image_link), $post->ID );
                 }
             }
 

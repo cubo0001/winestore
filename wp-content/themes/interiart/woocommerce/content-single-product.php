@@ -37,6 +37,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <div itemscope itemtype="<?php echo woocommerce_get_product_schema(); ?>" id="product-<?php the_ID(); ?>" <?php post_class(); ?>>
     <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <?php
             /**
              * interiart_woocommerce_before_single_product_summary hook
@@ -45,8 +46,7 @@ if ( ! defined( 'ABSPATH' ) ) {
              */
             do_action( 'interiart_woocommerce_before_single_product_summary' );
             ?>
-    </div>
-    <div class="row">
+        </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="summary entry-summary tzShopDetail_info">
                 <?php

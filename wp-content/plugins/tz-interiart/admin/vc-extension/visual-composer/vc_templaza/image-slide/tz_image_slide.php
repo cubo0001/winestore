@@ -9,7 +9,7 @@ function tzinteriart_image_slide($atts) {
         'tz_image' => $tz_image,
     ),$atts));
     ob_start();
-    var_dump($tz_image);
+    //var_dump($tz_image);
     $images = explode( ',', $tz_image );
     ?>
     <div class="tzElement_Image_slide">

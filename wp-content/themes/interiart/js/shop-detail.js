@@ -51,7 +51,7 @@ jQuery(window).load(function () {
     var $interiart_width_left = jQuery('#tzShopDetailSlide-carousel').width();
 
     jQuery('#tzShopDetail_slide').css('width',( $interiart_width_box - $interiart_width_left - 15 ) + 'px');
-    jQuery('#tzShopDetail_slide ul li').css('width',( ($interiart_width_box - $interiart_width_left - 15)/3 ) + 'px');
+    jQuery('#tzShopDetail_slide ul li').css('width',( ($interiart_width_box - $interiart_width_left - 15) ) + 'px');
 
     //jCarousel Plugin
     jQuery('#tzShopDetail_carousel').jcarousel({

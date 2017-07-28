@@ -154,7 +154,7 @@ class Yoast_Form {
 				<div class="inside">
 					<h3 class="wpseo-debug-heading">' . esc_html( __( 'Current option:', 'wordpress-seo' ) ) . ' <span class="wpseo-debug">' . esc_html( $this->option_name ) . '</span></h3>
 					' . ( ( $xdebug ) ? '' : '<pre>' );
-			var_dump( $this->get_option() );
+			//var_dump( $this->get_option() );
 			echo '
 					' . ( ( $xdebug ) ? '' : '</pre>' ) . '
 				</div>
