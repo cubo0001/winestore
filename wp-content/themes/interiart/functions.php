@@ -137,6 +137,7 @@ function interiart_register_front_end_scripts()
 {
     wp_enqueue_script( 'bootstrap.min', get_template_directory_uri().'/js/bootstrap.min.js', array(), false, true );
     wp_enqueue_script( 'jpreloader', get_template_directory_uri().'/js/jpreloader.js', array(), false, true );
+    wp_enqueue_script( 'scoll-navbar', get_template_directory_uri().'/js/scoll-navbar.js', array(), false, true );
 
     if ( is_page_template('template-homepage.php') ):
         wp_enqueue_script( 'jquery.magnific-popup.min', get_template_directory_uri().'/js/jquery.magnific-popup.min.js', array(), false, true );
