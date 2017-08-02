@@ -75,6 +75,32 @@
  */
 /* FONT PATH
  * -------------------------- */
+@media (min-width: 640px) {
+  .contact-bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    height: 35px;
+    width: 300px;
+    background-color: #e5ae49;
+    border-top-left-radius: 8px;
+  }
+  .contact-text{
+    color: white;
+    text-align: center;
+    height: 100%;
+    padding-top: 6px;
+  }
+
+  .contact-item {
+    background: url("../interiart/images/quy-trinh-ico.png") no-repeat center;
+    width: 45px;
+    height: 100%;
+    float: left;
+  }
+}
+
 .woocommerce ul.products li.product h3 {
   white-space: nowrap;
   overflow: hidden;

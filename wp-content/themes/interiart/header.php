@@ -30,3 +30,9 @@
 </head>
 <body id="bd" <?php body_class(); ?>>
     <div id="loadding"></div>
+        <div class="contact-bottom">
+            <div class="contact-item"></div>
+            <div class="contact-text">
+                <p>Vui lòng liên hệ: 098 221 6068</p>
+            </div>
+        </div>
