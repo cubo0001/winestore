@@ -85,6 +85,33 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
     });
 </script>
 
+<?php $current_url="http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+        if(strpos($current_url, "?product_cat=tim-theo-gia")) { ?>
+        <div class="nav-menu-find-price">
+            <div class="find-price" style="display: none"><h3>Tìm theo giá</h3></div>
+            <ul>
+                <li><a href="/?product_cat=500-000-d">Dưới 500.000 đ</a></li>
+                <li><a href="/?product_cat=500000-999000">500.000 đ – 999.000 đ</a></li>
+                <li><a href="/?product_cat=1000000-1999000">1.000.000 đ – 1.999.000 đ</a></li>
+                <li><a href="/?product_cat=2000000-5000000">2.000.000 đ – 5.000.000 đ</a></li>
+                <li><a href="/?product_cat=5000000">Trên 5.000.000 đ</a></li>
+            </ul>
+        </div>
+<?php }
+        if(strpos($current_url, "?product_cat=tim-theo-xuat-xu")) {
+?>
+        <div class="nav-menu-find-price">
+            <div class="find-price" style="display: none"><h3>Tìm theo xuất xứ</h3></div>
+            <ul>
+                <li><a href="/?product_cat=chile">Chile</a></li>
+                <li><a href="/?product_cat=phap">Pháp</a></li>
+                <li><a href="/?product_cat=tay-ban-nha">Tây Ban Nha</a></li>
+                <li><a href="/?product_cat=y">Ý</a></li>
+            </ul>
+        </div>
+
+<?php } ?>
+
 <div class="tzshop-wrap">
     <div class="container">
         <div class="row">
