@@ -75,6 +75,44 @@
  */
 /* FONT PATH
  * -------------------------- */
+.nav-menu-find-price ul li a:hover {
+  color: #e5ae49;
+}
+
+.nav-menu-find-price {
+  height: auto;
+  overflow: hidden;
+  text-align: center;
+}
+.hold-navbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 125px;
+  background-color: #f7f7f7;
+  z-index: 100;
+}
+.find-price {
+  text-align: center;
+  padding-top: 10px;
+}
+.nav-menu-find-price li {
+  display: inline-block;
+  position: relative;
+  list-style-type: none;
+  line-height: 50px;
+  padding-left: 8px;
+}
+.nav-menu-find-price li a {
+  font-family: 'Montserrat', 'sans-serif';
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: none;
+  line-height: 30px;
+  color: #212121;
+  border-right: 1px solid #212121;
+  padding-right: 8px;
+}
 .navbar-fixed {
   top: 0;
   z-index: 100;
