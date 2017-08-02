@@ -75,6 +75,11 @@
  */
 /* FONT PATH
  * -------------------------- */
+.woocommerce ul.products li.product h3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 .nav-menu-find-price ul li a:hover {
   color: #e5ae49;
 }
