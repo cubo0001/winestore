@@ -75,6 +75,10 @@
  */
 /* FONT PATH
  * -------------------------- */
+.yith-wcwl-add-to-wishlist {
+  display: none !important;
+}
+
 @media (min-width: 640px) {
   .contact-bottom {
     position: fixed;
