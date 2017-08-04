@@ -75,6 +75,9 @@
  */
 /* FONT PATH
  * -------------------------- */
+.woocommerce-Price-amount {
+  display: none;
+}
 .yith-wcwl-add-to-wishlist {
   display: none !important;
 }
