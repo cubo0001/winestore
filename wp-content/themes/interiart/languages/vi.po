@@ -1,0 +1,2230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interiart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-12 18:54+0700\n"
+"PO-Revision-Date: 2017-08-04 17:52+0000\n"
+"Last-Translator: admin <tranthanhtung0709@gmail.com>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:20
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: 404.php:22
+msgid "404"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:65 extension/ot-support/theme-options.php:2052
+msgid "Email"
+msgstr ""
+
+#: comments.php:67
+msgid "Website"
+msgstr ""
+
+#: comments.php:71
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:72
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:164
+msgctxt "Ubuntu font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:170
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:172
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:173
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:238
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:239
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:499 plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:500 plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:501 plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:502 plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:504 plugins/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:509 plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:514 plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:519 plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:524 plugins/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:529 plugins/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:534 plugins/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:539 plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:544 plugins/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:549 plugins/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:554 plugins/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:559 plugins/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:563 plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:564 plugins/class-tgm-plugin-activation.php:399
+#: plugins/class-tgm-plugin-activation.php:3016
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:565 plugins/class-tgm-plugin-activation.php:400
+#: plugins/class-tgm-plugin-activation.php:2819
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:566 plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: functions.php:567 plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: functions.php:568 plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions.php:569 plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: index.php:138
+msgid "sticky"
+msgstr ""
+
+#: search.php:203
+msgid "No Data"
+msgstr ""
+
+#: search.php:209
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:213
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:218
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: single-portfolio.php:152
+msgid "Project Detail"
+msgstr ""
+
+#: single-portfolio.php:188
+msgid "Tags "
+msgstr ""
+
+#: single-portfolio.php:239
+msgid "Related Projects"
+msgstr ""
+
+#: single.php:240
+msgid "Tags"
+msgstr ""
+
+#: extension/theme-functions.php:79
+msgid "Pingback:"
+msgstr ""
+
+#: extension/theme-functions.php:79
+msgid "(Edit)"
+msgstr ""
+
+#: extension/theme-functions.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: extension/theme-functions.php:108
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: extension/theme-functions.php:110
+msgid "<i class=\"fa fa-pencil-square-o\"></i> Edit "
+msgstr ""
+
+#: extension/theme-functions.php:111
+msgid " <i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: extension/theme-functions.php:139
+msgid "Comment navigation"
+msgstr ""
+
+#: extension/theme-functions.php:142
+msgid "Older Comments"
+msgstr ""
+
+#: extension/theme-functions.php:146
+msgid "Newer Comments"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:684
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:728
+msgid "Mega Menu Column"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:730
+msgid "Mega Menu"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:734
+#: extension/megamenu/themeple_custom_menu.php:738
+msgid "Edit Menu Item"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:756
+msgid "URL"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:770
+msgid "Navigation Label"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:772
+msgid "Title for the Mega Menu Column"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:788
+msgid "Title Attribute"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:800
+msgid "link Target"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:804
+msgid "Same window or tab"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:806
+msgid "New window or tab"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:818
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:830
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:900
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:926
+msgid "Remove"
+msgstr ""
+
+#: extension/megamenu/themeple_custom_menu.php:928
+msgid "Cancel"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:20
+msgid "Post Option"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:27
+#: extension/ot-support/add-meta-boxes.php:207
+msgid "Is Featured ?"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:39
+#: extension/ot-support/add-meta-boxes.php:219
+#: extension/ot-support/theme-options.php:220
+msgid "Yes"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:44
+#: extension/ot-support/add-meta-boxes.php:224
+#: extension/ot-support/theme-options.php:225
+msgid "No"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:50
+#: extension/ot-support/add-meta-boxes.php:230
+msgid "Post Type"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:53
+#: extension/ot-support/add-meta-boxes.php:233
+msgid "Option type Post"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:62
+#: extension/ot-support/add-meta-boxes.php:242
+msgid "None"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:66
+#: extension/ot-support/add-meta-boxes.php:101
+#: extension/ot-support/add-meta-boxes.php:108
+#: extension/ot-support/add-meta-boxes.php:246
+#: extension/ot-support/add-meta-boxes.php:276
+#: extension/ot-support/add-meta-boxes.php:283
+msgid "Image"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:70
+#: extension/ot-support/add-meta-boxes.php:250
+msgid "Slideshows"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:74
+#: extension/ot-support/add-meta-boxes.php:254
+msgid "Video"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:78
+#: extension/ot-support/add-meta-boxes.php:258
+msgid "Video HTML5"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:82
+#: extension/ot-support/add-meta-boxes.php:262
+msgid "Audio"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:86
+msgid "Quote"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:93
+#: extension/ot-support/add-meta-boxes.php:268
+msgid "Slideshow"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:114
+#: extension/ot-support/add-meta-boxes.php:289
+msgid "SoundCloud ID"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:117
+#: extension/ot-support/add-meta-boxes.php:292
+msgid "Only use for the SoundCloud"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:126
+#: extension/ot-support/add-meta-boxes.php:301
+msgid "Video Type"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:137
+#: extension/ot-support/add-meta-boxes.php:312
+msgid "Youtube"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:141
+#: extension/ot-support/add-meta-boxes.php:316
+msgid "vimeo"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:147
+#: extension/ot-support/add-meta-boxes.php:322
+msgid "Video ID"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:155
+#: extension/ot-support/add-meta-boxes.php:330
+msgid "Background Image"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:158
+#: extension/ot-support/add-meta-boxes.php:333
+msgid "This is background image of video."
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:166
+#: extension/ot-support/add-meta-boxes.php:341
+msgid "Video MP4"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:176
+#: extension/ot-support/add-meta-boxes.php:351
+msgid "Video OGV"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:186
+#: extension/ot-support/add-meta-boxes.php:361
+msgid "Video WEBM"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:200
+#: extension/ot-support/add-meta-boxes.php:452
+msgid "Portfolio Option"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:373
+msgid "Information Of Portfolio"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:374
+msgid "------------------"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:384
+msgid "Meta Key 1"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:395
+msgid "Meta Value 1"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:406
+msgid "Meta Key 2"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:417
+msgid "Meta Value 2"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:427
+msgid "Meta Key 3"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:438
+msgid "Meta Value 3"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:460
+msgid "Config Portfolio Column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:472
+#: extension/ot-support/add-meta-boxes.php:814
+msgid "Desktop column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:502
+msgid "tablet portrait column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:528
+msgid "mobile landscape column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:554
+msgid "mobile portrait column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:582
+msgid "Choose category portfolio"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:592
+msgid "Limit portfolio"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:603
+#: extension/ot-support/add-meta-boxes.php:933
+msgid "Orderby"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:611
+#: extension/ot-support/add-meta-boxes.php:941
+msgid "Date"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:615
+#: extension/ot-support/add-meta-boxes.php:945
+#: extension/widgets/latest-project.php:76 extension/widgets/recent-post.php:81
+#: extension/widgets/tz-widget-cart.php:20
+msgid "Title"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:619
+#: extension/ot-support/add-meta-boxes.php:949
+msgid "ID"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:625
+#: extension/ot-support/add-meta-boxes.php:955
+msgid "Order"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:633
+#: extension/ot-support/add-meta-boxes.php:963
+msgid "Z ---> A"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:637
+#: extension/ot-support/add-meta-boxes.php:967
+msgid "A ---> Z"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:643
+msgid "Filter Status"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:651
+#: extension/ot-support/theme-options.php:2042
+#: extension/ot-support/theme-options.php:2168
+#: extension/ot-support/theme-options.php:2191
+#: extension/ot-support/theme-options.php:2290
+#: extension/ot-support/theme-options.php:2313
+#: extension/ot-support/theme-options.php:2336
+#: extension/ot-support/theme-options.php:2359
+#: extension/ot-support/theme-options.php:2382
+#: extension/ot-support/theme-options.php:2405
+#: extension/ot-support/theme-options.php:2428
+#: extension/ot-support/theme-options.php:2451
+#: extension/ot-support/theme-options.php:2474
+#: extension/ot-support/theme-options.php:2497
+#: extension/ot-support/theme-options.php:2562
+#: extension/ot-support/theme-options.php:2585
+#: extension/ot-support/theme-options.php:2608
+#: extension/ot-support/theme-options.php:2631
+#: extension/ot-support/theme-options.php:2654
+#: extension/ot-support/theme-options.php:2677
+#: extension/ot-support/theme-options.php:2700
+msgid "Show"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:655
+#: extension/ot-support/theme-options.php:2046
+#: extension/ot-support/theme-options.php:2172
+#: extension/ot-support/theme-options.php:2195
+#: extension/ot-support/theme-options.php:2294
+#: extension/ot-support/theme-options.php:2317
+#: extension/ot-support/theme-options.php:2340
+#: extension/ot-support/theme-options.php:2363
+#: extension/ot-support/theme-options.php:2386
+#: extension/ot-support/theme-options.php:2409
+#: extension/ot-support/theme-options.php:2432
+#: extension/ot-support/theme-options.php:2455
+#: extension/ot-support/theme-options.php:2478
+#: extension/ot-support/theme-options.php:2501
+#: extension/ot-support/theme-options.php:2566
+#: extension/ot-support/theme-options.php:2589
+#: extension/ot-support/theme-options.php:2612
+#: extension/ot-support/theme-options.php:2635
+#: extension/ot-support/theme-options.php:2658
+#: extension/ot-support/theme-options.php:2681
+#: extension/ot-support/theme-options.php:2704
+msgid "Hide"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:661
+msgid "Filter Porfolio"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:669
+msgid "Portfolio tags"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:673
+msgid "Portfolio category"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:679
+msgid "Option Height"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:697
+msgid "Height Of Portfolio Item"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:708
+msgid "Style Hover"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:709
+msgid "Style show infomation of portfolio item when you hover."
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:716
+msgid "Style 1"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:720
+msgid "Style 2"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:724
+msgid "Style 3"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:730
+msgid "Paging"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:731
+msgid "choose type paging"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:738
+msgid "Default ( 1, 2, 3 ... 8, 9 , 10)"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:742
+msgid "Ajaxbutton"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:746
+msgid "Ajax scroll"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:752
+msgid "Loading Text"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:763
+msgid "Image loading"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:771
+#: extension/ot-support/add-meta-boxes.php:973
+#: extension/ot-support/theme-options.php:2231
+#: extension/ot-support/theme-options.php:2510
+#: extension/ot-support/theme-options.php:2898
+#: extension/ot-support/theme-options.php:2989
+msgid "Sidebar Option"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:779
+#: extension/ot-support/add-meta-boxes.php:981
+#: extension/ot-support/theme-options.php:2522
+#: extension/ot-support/theme-options.php:2910
+#: extension/ot-support/theme-options.php:3001
+msgid "No Sidebar"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:783
+#: extension/ot-support/add-meta-boxes.php:985
+#: extension/ot-support/theme-options.php:2526
+#: extension/ot-support/theme-options.php:2914
+#: extension/ot-support/theme-options.php:3005
+msgid "Sidebar Right"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:787
+#: extension/ot-support/add-meta-boxes.php:989
+#: extension/ot-support/theme-options.php:2530
+#: extension/ot-support/theme-options.php:2918
+#: extension/ot-support/theme-options.php:3009
+msgid "Sidebar Left"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:795
+msgid "Blog Column Option"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:803
+msgid "Config Blog Column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:822
+#: extension/ot-support/add-meta-boxes.php:844
+#: extension/ot-support/add-meta-boxes.php:870
+#: extension/ot-support/add-meta-boxes.php:896
+#: extension/ot-support/theme-options.php:2753
+#: extension/ot-support/theme-options.php:2784
+#: extension/ot-support/theme-options.php:2815
+#: extension/ot-support/theme-options.php:2846
+#: extension/ot-support/theme-options.php:2945
+#: extension/ot-support/theme-options.php:2968
+msgid "2"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:826
+#: extension/ot-support/add-meta-boxes.php:848
+#: extension/ot-support/add-meta-boxes.php:874
+#: extension/ot-support/add-meta-boxes.php:900
+#: extension/ot-support/theme-options.php:2749
+#: extension/ot-support/theme-options.php:2780
+#: extension/ot-support/theme-options.php:2811
+#: extension/ot-support/theme-options.php:2842
+#: extension/ot-support/theme-options.php:2941
+msgid "3"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:830
+#: extension/ot-support/add-meta-boxes.php:852
+#: extension/ot-support/add-meta-boxes.php:878
+#: extension/ot-support/add-meta-boxes.php:904
+#: extension/ot-support/theme-options.php:2745
+#: extension/ot-support/theme-options.php:2776
+#: extension/ot-support/theme-options.php:2807
+#: extension/ot-support/theme-options.php:2838
+#: extension/ot-support/theme-options.php:2937
+msgid "4"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:836
+msgid "Tablet Portrait Column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:858
+msgid "Mobile Landscape Column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:866
+#: extension/ot-support/add-meta-boxes.php:892
+#: extension/ot-support/theme-options.php:2757
+#: extension/ot-support/theme-options.php:2788
+#: extension/ot-support/theme-options.php:2819
+#: extension/ot-support/theme-options.php:2850
+#: extension/ot-support/theme-options.php:2964
+msgid "1"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:884
+msgid "Mobile Portrait Column"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:911
+msgid "Category Blog"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:912
+msgid "Choose category blog"
+msgstr ""
+
+#: extension/ot-support/add-meta-boxes.php:922
+#: extension/ot-support/add-meta-boxes.php:923
+msgid "Limit Blog"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:66
+msgid "Logo & Favicon"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:70
+msgid "Theme Color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:74
+msgid "Font Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:78
+msgid "Body Style"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:83
+msgid "Header Style"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:87
+msgid "Menu Style"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:91
+msgid "Custom Style"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:95
+msgid "Custom CSS"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:99
+msgid "Background style"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:103
+msgid "Header Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:107
+#: extension/ot-support/theme-options.php:2143
+#: extension/ot-support/theme-options.php:2179
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:111
+msgid "Blog Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:115
+#: extension/ot-support/theme-options.php:2256
+msgid "Single Post Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:119
+msgid "Single Portfolio Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:123
+msgid "Shop Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:127
+msgid "Shop Detail Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:131
+msgid "404 Page"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:135
+msgid "Footer Options"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:139
+msgid "Footer Type 1 Options"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:143
+msgid "Footer Type 2 Options"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:147
+msgid "Footer Type 3 Options"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:151
+msgid "Copyright"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:159
+msgid "Logo Type"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:160
+msgid "select type for logo text or image"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:171
+msgid "Logo image"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:175
+msgid "Logo text"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:181
+msgid "Logo Text"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:182
+msgid "logo name for your website"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:190
+msgid "Color logo"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:191
+msgid "logo text color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:199
+msgid "Upload Logo"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:200
+msgid "Logo using for home page and page shop"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:208
+msgid "Enable Favicon"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:209
+msgid "Show or hide Favicon"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:233
+msgid "Upload Favicon Icon"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:234
+msgid "Please choose an image  to use for favicon."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:245
+#: extension/ot-support/theme-options.php:359
+msgid "Config Color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:253
+msgid "Limited Color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:257
+msgid "Unlimited color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:264
+msgid "Choose color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:335
+msgid "Choose Color"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:346
+msgid "Footer Widgets"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:347
+msgid "Config footer"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:367
+msgid "Footer Type 1"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:371
+msgid "Footer Type 2"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:375
+msgid "Footer Type 3"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:382
+#: extension/ot-support/theme-options.php:777
+#: extension/ot-support/theme-options.php:2202
+msgid "Upload Image Background"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:383
+#: extension/ot-support/theme-options.php:778
+#: extension/ot-support/theme-options.php:2203
+msgid "Please choose an image  to use for Background."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:421
+#: extension/ot-support/theme-options.php:816
+#: extension/ot-support/theme-options.php:1202
+msgid "Number of Footer Columns."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:423
+#: extension/ot-support/theme-options.php:818
+#: extension/ot-support/theme-options.php:1204
+msgid "Select the number of columns to display in the footer."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:448
+#: extension/ot-support/theme-options.php:843
+#: extension/ot-support/theme-options.php:1229
+msgid "Footer width 1"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:449
+#: extension/ot-support/theme-options.php:507
+#: extension/ot-support/theme-options.php:565
+#: extension/ot-support/theme-options.php:623
+#: extension/ot-support/theme-options.php:844
+#: extension/ot-support/theme-options.php:902
+#: extension/ot-support/theme-options.php:960
+#: extension/ot-support/theme-options.php:1018
+#: extension/ot-support/theme-options.php:1230
+#: extension/ot-support/theme-options.php:1288
+#: extension/ot-support/theme-options.php:1346
+#: extension/ot-support/theme-options.php:1404
+msgid "config width for footer"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:506
+#: extension/ot-support/theme-options.php:901
+#: extension/ot-support/theme-options.php:1287
+msgid "Footer width 2"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:564
+#: extension/ot-support/theme-options.php:959
+#: extension/ot-support/theme-options.php:1345
+msgid "Footer width 3"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:622
+#: extension/ot-support/theme-options.php:1017
+#: extension/ot-support/theme-options.php:1403
+msgid "Footer width 4"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:681
+#: extension/ot-support/theme-options.php:1076
+msgid "Social Footer Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:694
+#: extension/ot-support/theme-options.php:1089
+#: extension/ot-support/theme-options.php:2060
+msgid "Facebook Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:702
+#: extension/ot-support/theme-options.php:1097
+#: extension/ot-support/theme-options.php:2068
+msgid "Twitter Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:710
+#: extension/ot-support/theme-options.php:1105
+#: extension/ot-support/theme-options.php:2076
+msgid "Tumblr Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:718
+#: extension/ot-support/theme-options.php:1113
+#: extension/ot-support/theme-options.php:2084
+msgid "Linkedin Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:726
+#: extension/ot-support/theme-options.php:1121
+#: extension/ot-support/theme-options.php:2092
+msgid "Youtube Play Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:734
+#: extension/ot-support/theme-options.php:1129
+#: extension/ot-support/theme-options.php:2100
+msgid "Dribbble Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:742
+#: extension/ot-support/theme-options.php:1137
+#: extension/ot-support/theme-options.php:2108
+msgid "Behance Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:750
+#: extension/ot-support/theme-options.php:1145
+#: extension/ot-support/theme-options.php:2116
+msgid "Skype Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:758
+#: extension/ot-support/theme-options.php:1153
+#: extension/ot-support/theme-options.php:2124
+msgid "Pinterest Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:766
+#: extension/ot-support/theme-options.php:1161
+#: extension/ot-support/theme-options.php:2132
+msgid "Google Plus Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1478
+msgid "404 Content"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1493
+msgid "StyleConfig"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1494
+msgid ""
+"Config for body style, header style, menu style, custom style, background"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1507
+#: extension/ot-support/theme-options.php:1613
+#: extension/ot-support/theme-options.php:1717
+#: extension/ot-support/theme-options.php:1819
+msgid "Font Type"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1508
+#: extension/ot-support/theme-options.php:1614
+#: extension/ot-support/theme-options.php:1820
+msgid "option font type"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1520
+#: extension/ot-support/theme-options.php:1626
+#: extension/ot-support/theme-options.php:1729
+#: extension/ot-support/theme-options.php:1831
+msgid "Goole Font"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1524
+#: extension/ot-support/theme-options.php:1630
+#: extension/ot-support/theme-options.php:1733
+#: extension/ot-support/theme-options.php:1835
+msgid "Standard Font"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1534
+#: extension/ot-support/theme-options.php:1640
+#: extension/ot-support/theme-options.php:1743
+#: extension/ot-support/theme-options.php:1844
+msgid "Select Standard Font"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1535
+#: extension/ot-support/theme-options.php:1641
+#: extension/ot-support/theme-options.php:1744
+#: extension/ot-support/theme-options.php:1845
+msgid "Select a font to use font-family"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1542
+#: extension/ot-support/theme-options.php:1647
+#: extension/ot-support/theme-options.php:1750
+#: extension/ot-support/theme-options.php:1851
+msgid "Arial"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1546
+#: extension/ot-support/theme-options.php:1651
+#: extension/ot-support/theme-options.php:1754
+#: extension/ot-support/theme-options.php:1855
+msgid "Tahoma"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1550
+#: extension/ot-support/theme-options.php:1655
+#: extension/ot-support/theme-options.php:1758
+#: extension/ot-support/theme-options.php:1859
+msgid "Verdana"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1554
+#: extension/ot-support/theme-options.php:1659
+#: extension/ot-support/theme-options.php:1762
+#: extension/ot-support/theme-options.php:1863
+msgid "Georgia"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1558
+#: extension/ot-support/theme-options.php:1663
+#: extension/ot-support/theme-options.php:1766
+#: extension/ot-support/theme-options.php:1867
+msgid "Impact"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1562
+#: extension/ot-support/theme-options.php:1667
+#: extension/ot-support/theme-options.php:1770
+#: extension/ot-support/theme-options.php:1871
+msgid "Times"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1572
+#: extension/ot-support/theme-options.php:1677
+#: extension/ot-support/theme-options.php:1780
+#: extension/ot-support/theme-options.php:1881
+msgid "Google Url"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1573
+#: extension/ot-support/theme-options.php:1678
+#: extension/ot-support/theme-options.php:1781
+#: extension/ot-support/theme-options.php:1882
+msgid ""
+"import google font URL Eg: http://fonts.googleapis.com/css?"
+"family=Monsieur+La+Doulaise"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1582
+#: extension/ot-support/theme-options.php:1687
+#: extension/ot-support/theme-options.php:1790
+#: extension/ot-support/theme-options.php:1891
+msgid "Font Family"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1583
+#: extension/ot-support/theme-options.php:1688
+#: extension/ot-support/theme-options.php:1791
+#: extension/ot-support/theme-options.php:1892
+msgid "importeg google font-family Eg: Monsieur La Doulaise"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1590
+msgid "Body Selectors"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1591
+msgid ""
+"you can specify a selector for font used in the document body eg: "
+"div#description"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1601
+#: extension/ot-support/theme-options.php:1705
+#: extension/ot-support/theme-options.php:1808
+#: extension/ot-support/theme-options.php:1909
+#: extension/ot-support/theme-options.php:1969
+msgid "Color code"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1602
+#: extension/ot-support/theme-options.php:1706
+#: extension/ot-support/theme-options.php:1809
+#: extension/ot-support/theme-options.php:1910
+msgid "Color for text"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1695
+msgid "Header Selecter"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1696
+msgid ""
+"You can specify a selector for font used in the document Header Eg: "
+"div#description"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1718
+msgid "Option font type"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1798
+msgid "Menu Selectors"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1799
+msgid ""
+"you can specify a selector for font used in the document body eg: div#menu"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1899
+msgid "Custom Selecter"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1900
+msgid ""
+"you can specify a selector for font used in the document body eg: div#custom"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1920
+msgid "Code CSS"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1921
+msgid ""
+"Paste your CSS code, do not include any tags or HTML in thie field. Any "
+"custom CSS entered here will override the theme CSS. In some cases, the !"
+"important tag may be needed."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1932
+msgid ""
+"Default background for Post, Page, Portfolio, Category, Archive, Seach page."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1943
+msgid "Background Type"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1944
+msgid ""
+"You can choose the background you want between our pre-provided pattern and "
+"your custom image."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1955
+msgid "Default"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1959
+msgid "Pattern"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1963
+msgid "Single image"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1970
+msgid "Background color code"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1977
+msgid "Choose Pattern"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:1990
+msgid "Single Image Background"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2004
+msgid "Header Type Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2005
+msgid "You can choose type of header."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2016
+msgid "Header Type 1"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2020
+msgid "Header Type 2"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2024
+msgid "Header Type 3"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2030
+msgid "Language Dropdown Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2031
+msgid "You can choose show or hide language dropdown option."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2053
+msgid "Import email contact.Ex: info@templaza.com"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2156
+#: extension/ot-support/theme-options.php:2301
+#: extension/ot-support/theme-options.php:2573
+msgid "Title Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2157
+msgid "You can choose show or hide title."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2180
+msgid "You can choose show or hide breadcrumb."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2211
+msgid "Padding Top (px)"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2220
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2232
+#: extension/ot-support/theme-options.php:2257
+msgid "You can choose show sidebar right or sidebar left."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2243
+#: extension/ot-support/theme-options.php:2268
+msgid "Sidebar right"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2247
+#: extension/ot-support/theme-options.php:2272
+msgid "Sidebar left"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2278
+#: extension/ot-support/theme-options.php:2550
+msgid "Media Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2279
+msgid ""
+"You can choose show or hide media of post ( image or slider or video or "
+"audio )."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2302
+msgid "You can choose show or hide Title of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2324
+#: extension/ot-support/theme-options.php:2619
+msgid "Author Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2325
+msgid "You can choose show or hide author of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2347
+#: extension/ot-support/theme-options.php:2642
+msgid "Date Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2348
+msgid "You can choose show or hide date of post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2370
+#: extension/ot-support/theme-options.php:2665
+msgid "Category Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2371
+msgid "You can choose show or hide category of post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2393
+#: extension/ot-support/theme-options.php:2688
+msgid "Tag Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2394
+msgid "You can choose show or hide tag of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2416
+#: extension/ot-support/theme-options.php:2596
+msgid "Content Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2417
+msgid "You can choose show or hide content of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2439
+msgid "Share Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2440
+msgid "You can choose show or hide share of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2462
+msgid "Infomation Author Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2463
+msgid "You can choose show or hide infomation author of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2485
+msgid "Comment Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2486
+msgid "You can choose show or hide comment of single post."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2511
+#: extension/ot-support/theme-options.php:2899
+#: extension/ot-support/theme-options.php:2990
+msgid ""
+"You can choose show sidebar right or sidebar left.Default is no sidebar."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2551
+msgid ""
+"You can choose show or hide media of portfolio ( image or slider or video or "
+"audio )."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2574
+msgid "You can choose show or hide Title of single portfolio."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2597
+msgid "You can choose show or hide content of single portfolio."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2620
+msgid "You can choose show or hide author of single portfolio."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2643
+msgid "You can choose show or hide date of portfolio."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2666
+msgid "You can choose show or hide category of portfolio."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2689
+msgid "You can choose show or hide tag of single portfolio."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2724
+msgid "Limit"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2733
+msgid "Number Item Desktop"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2764
+msgid "Number Item Desktop Small"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2795
+msgid "Number Item Tablet"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2826
+msgid "Number Item Mobile"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2857
+msgid "Type Hover"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2869
+msgid "Type 1"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2873
+msgid "Type 2"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2877
+msgid "Type 3"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2925
+msgid "Number Column Shop Grid."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2926
+msgid "You can set number column for shop page type grid."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2952
+msgid "Number Column Shop List."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:2953
+msgid "You can set number column for shop page type list."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:3016
+msgid "Navigation Slider Option"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:3017
+msgid "You can choose position for navigation slider.Default is Left."
+msgstr ""
+
+#: extension/ot-support/theme-options.php:3028
+msgid "Left"
+msgstr ""
+
+#: extension/ot-support/theme-options.php:3032
+msgid "Right"
+msgstr ""
+
+#: extension/widgets/contact-info.php:80
+msgid "Email:"
+msgstr ""
+
+#: extension/widgets/contact-info.php:84
+msgid "Website:"
+msgstr ""
+
+#: extension/widgets/latest-project.php:13
+msgid "Tz Latest Project"
+msgstr ""
+
+#: extension/widgets/latest-project.php:14 extension/widgets/recent-post.php:14
+msgid " Display post "
+msgstr ""
+
+#: extension/widgets/latest-project.php:84 extension/widgets/recent-post.php:89
+msgid "Display Type"
+msgstr ""
+
+#: extension/widgets/latest-project.php:94
+msgid "Limit Portfolio"
+msgstr ""
+
+#: extension/widgets/recent-post.php:13
+msgid "Tz Recent Post"
+msgstr ""
+
+#: extension/widgets/recent-post.php:99
+msgid "Limit post"
+msgstr ""
+
+#: extension/widgets/tz-widget-cart.php:13
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: extension/widgets/tz-widget-cart.php:15
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: extension/widgets/tz-widget-cart.php:25
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:815
+#: plugins/class-tgm-plugin-activation.php:3425
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:922
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:922
+#: plugins/class-tgm-plugin-activation.php:925
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:925
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1103
+#: plugins/class-tgm-plugin-activation.php:2815
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1868
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2154
+msgid "Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2157
+msgid "Recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2173
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2176
+msgid "External Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2179
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2196
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2200
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2202
+msgid "Active"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2208
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2211
+msgid "Requires Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2214
+msgid "Update recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2222
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2267
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2270
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2273
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2276
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2358
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2366
+msgid "Installed version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2374
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2386
+msgid "Available version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2423
+msgid "Plugin"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2424
+msgid "Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2425
+msgid "Type"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2429
+msgid "Version"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2430
+msgid "Status"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2478
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2482
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2557
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2590
+msgid "Install"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2596
+msgid "Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2599
+msgid "Activate"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2630
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2632
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2668
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2670
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2775
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2801
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3015
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3349
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3351
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3352
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3356
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3357
+#: plugins/class-tgm-plugin-activation.php:3363
+msgid "Hide Details"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3358
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3359
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3362
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3364
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: template_inc/inc-breadcrumb.php:45
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: template_inc/inc-breadcrumb.php:48 template_inc/inc-breadcrumb.php:50
+#: template_inc/inc-breadcrumb.php:52
+#, php-format
+msgid "Archives %s"
+msgstr ""
+
+#: template_inc/inc-breadcrumb.php:50
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: template_inc/inc-breadcrumb.php:52
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template_inc/inc-breadcrumb.php:54
+msgid "Archives"
+msgstr ""
+
+#: template_inc/inc-header.php:56
+msgid "Chosse Your Languages"
+msgstr ""
+
+#: template_inc/inc-header.php:62
+msgid "Viet Nam"
+msgstr ""
+
+#: template_inc/inc-header.php:66
+msgid "English"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22 woocommerce/cart/cart-shipping.php:97
+#: woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76 woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:99
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:102
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "No products in the cart."
+msgstr "Không có sản phẩm trong giỏ hàng."
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:32
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:33
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:49
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/mini-cart.php:86
+msgid "Subtotal"
+msgstr "Tổng cộng"
+
+#: 404.php:23
+msgid "Go Back Home"
+msgstr "Quay trở lại trang chủ"
+
+#: archive.php:61 archive.php:189 index.php:46 index.php:145 search.php:160
+#: single.php:196 taxonomy-portfolio-category.php:57
+#: taxonomy-portfolio-category.php:183 taxonomy-portfolio-tags.php:56
+#: taxonomy-portfolio-tags.php:182 template-blogcolumn.php:157
+#: template-blogcolumn.php:284
+msgid "by "
+msgstr "bởi"
+
+#: archive.php:215 archive.php:220 index.php:171 index.php:176 search.php:187
+#: search.php:192 taxonomy-portfolio-category.php:207
+#: taxonomy-portfolio-category.php:212 taxonomy-portfolio-tags.php:206
+#: taxonomy-portfolio-tags.php:211 template-blogcolumn.php:310
+#: template-blogcolumn.php:316
+msgid "read more"
+msgstr "Đọc thêm"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Bình luận"
+
+#: comments.php:63
+msgid "Name"
+msgstr "Tên"
+
+#: functions.php:140
+msgid "Previous"
+msgstr "Trở lại"
+
+#: functions.php:141
+msgid "Next"
+msgstr "Tiếp tục"
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:13
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: single-portfolio.php:158
+msgid "Author "
+msgstr "Tác giả"
+
+#: single-portfolio.php:168
+msgid "Date Post "
+msgstr "Ngày đăng"
+
+#: single-portfolio.php:178
+msgid "Category "
+msgstr "Danh mục"
+
+#: single.php:253
+msgid "Share this post:"
+msgstr "Chia sẻ bài viết này"
+
+#: template-portfolio.php:75
+msgid "Show all"
+msgstr "Hiển thị tất cả"
+
+#: extension/tzswift-woocommerce.php:28
+msgid "View as:"
+msgstr "Xem dưới dạng:"
+
+#: extension/tzswift-woocommerce.php:31
+msgid "grid style"
+msgstr "Dạng lưới"
+
+#: extension/tzswift-woocommerce.php:35
+msgid "list style"
+msgstr "Dạng danh sách"
+
+#: extension/tzswift-woocommerce.php:81
+msgid "Share on:"
+msgstr "Chia sẻ:"
+
+#: extension/megamenu/themeple_custom_menu.php:842
+#: extension/widgets/contact-info.php:68
+msgid "Description"
+msgstr "Miêu tả"
+
+#: extension/ot-support/add-meta-boxes.php:581
+msgid "Category"
+msgstr "Danh mục"
+
+#: extension/widgets/contact-info.php:10
+msgid "Contact info"
+msgstr "Thông tin liên hệ"
+
+#: extension/widgets/contact-info.php:11
+msgid "Display Contact info"
+msgstr "Hiển thị thông tin liên hệ"
+
+#: extension/widgets/contact-info.php:64
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: extension/widgets/contact-info.php:72
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: extension/widgets/contact-info.php:76
+msgid "Phone:"
+msgstr "Điện thoại:"
+
+#: extension/widgets/tz-widget-cart.php:19
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: plugins/class-tgm-plugin-activation.php:3357
+#: plugins/class-tgm-plugin-activation.php:3363
+msgid "Show Details"
+msgstr "Hiển thị thông tin"
+
+#: woocommerce/content-product.php:72
+msgid "View Detail"
+msgstr "Xem chi tiết"
+
+#: woocommerce/cart/cart-totals.php:87
+msgid "Total"
+msgstr "Tổng cộng"
+
+#: woocommerce/cart/mini-cart.php:91
+msgid "View Cart"
+msgstr "Xem giỏ hàng"
+
+#: woocommerce/cart/mini-cart.php:92
+msgid "Checkout"
+msgstr "Thanh toán"
