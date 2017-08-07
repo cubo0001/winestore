@@ -254,6 +254,15 @@
                         'container' => false
                     ) ) ;
                 endif;
+
+                if ( has_nav_menu('primary-custom-1') ) :
+                    wp_nav_menu( array(
+                        'theme_location' => 'primary-custom-1',
+                        'menu_class' => 'nav navbar-nav collapse navbar-collapse pull-left tz-nav',
+                        'menu_id' => 'tz-navbar-collapse',
+                        'container' => false
+                    ) ) ;
+                endif;
                 ?>
             </nav>
         </div><!--end class container-->
