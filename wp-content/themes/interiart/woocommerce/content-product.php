@@ -53,7 +53,7 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] ) {
 	<?php do_action( 'woocommerce_before_shop_loop_item' ); ?>
 
     <div class="tzProduct-item_inner">
-        <div class="tzProduct-item_image">
+        <div class="tzProduct-item_image" style="cursor: pointer;" onclick="window.location='<?php the_permalink();?>';">
             <?php
             /**
              * woocommerce_before_shop_loop_item_title hook
@@ -81,7 +81,7 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] ) {
                 <a href="<?php the_permalink();?>"><?php esc_attr_e('View Detail','interiart')?></a>
             </div>
         </div>
-        <div class="tzProduct-item_info">
+        <div class="tzProduct-item_info" style="cursor: pointer;" onclick="window.location='<?php the_permalink();?>';">
             <h3 class="tzProduct-item_title">
                 <a href="<?php the_permalink();?>"><?php the_title();?></a>
             </h3>
