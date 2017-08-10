@@ -120,6 +120,8 @@
   height: auto;
   overflow: hidden;
   text-align: center;
+  border-bottom: 3px solid #e6ba5b;
+  border-top: 2px solid #e6ba5b;
 }
 .hold-navbar {
   position: fixed;
@@ -146,7 +148,7 @@
   font-weight: 400;
   text-decoration: none;
   line-height: 30px;
-  color: #212121;
+  color: #182933;
   border-right: 1px solid #212121;
   padding-right: 8px;
 }
