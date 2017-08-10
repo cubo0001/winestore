@@ -120,15 +120,14 @@
   height: auto;
   overflow: hidden;
   text-align: center;
-  border-bottom: 3px solid #e6ba5b;
-  border-top: 2px solid #e6ba5b;
+  border-top: 3px solid #e6ba5b;
 }
 .hold-navbar {
   position: fixed;
   left: 0;
   right: 0;
-  top: 125px;
-  background-color: #f7f7f7;
+  top: 126px;
+  background-color: #ffffff;
   z-index: 100;
 }
 .find-price {
