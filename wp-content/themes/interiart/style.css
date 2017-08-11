@@ -2554,7 +2554,7 @@ blockquote.right {
   color: #e5ae49;
   display: inline-block;
   float: left;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 75px !important;
   font-weight: 500 !important;
   line-height: 75px !important;
@@ -2570,7 +2570,7 @@ blockquote.right {
   border-radius: 3px;
   display: inline-block;
   float: left;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 45px !important;
   font-weight: 400 !important;
   line-height: 45px !important;
@@ -2611,14 +2611,14 @@ table tbody tr td a:hover {
 }
 dl dt {
   color: #222;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Cinzel", serif;
   font-size: 14px;
   line-height: 24px;
   font-weight: 500;
 }
 dl dd {
   color: #666;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Cinzel", serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
@@ -2626,14 +2626,14 @@ dl dd {
 ul li,
 ol li {
   color: #666;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Cinzel", serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
 }
 address {
   color: #666;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Cinzel", serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
@@ -2643,7 +2643,7 @@ img {
   height: auto;
 }
 form.post-password-form p label {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Cinzel", serif;
   font-size: 14px;
   font-weight: 400;
   float: left;
@@ -2657,7 +2657,7 @@ form.post-password-form p input[type='submit'] {
   border-radius: 0;
   background-color: #666;
   border: none;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Cinzel", serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
@@ -2868,7 +2868,7 @@ h6 {
   font-size: 14px;
 }
 p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 25px;
@@ -2913,7 +2913,7 @@ p {
 }
 .tz-header .tz-headerTop .tz-headerLeft .tzheader_support .tzheader_wpml #lang_sel ul li a {
   display: block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 13px;
   line-height: 13px;
@@ -2983,7 +2983,7 @@ p {
 }
 .tz-header .tz-headerTop .tz-headerLeft .tzheader_support .tzheader_site {
   float: left;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 13px;
   line-height: 13px;
@@ -3031,7 +3031,7 @@ p {
   display: none;
 }
 .tz-header .tz-headerBottom a.tz_logo {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 40px;
   font-weight: 700;
   color: #222222;
@@ -3118,7 +3118,7 @@ p {
   display: block;
   margin: 0px;
   padding: 14px 29px 16px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -3230,7 +3230,7 @@ p {
   display: block;
   margin: 0px;
   padding: 14px 0px 16px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -3294,7 +3294,7 @@ p {
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item ul li a {
   display: block;
   margin: 0px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   text-decoration: none;
@@ -3333,7 +3333,7 @@ p {
   margin-bottom: 20px;
 }
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a span.product-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -3445,7 +3445,7 @@ p {
   transition: all 0.3s ease-in-out 0s;
 }
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item.mega-current-menu-item > a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   color: #e5ae49;
 }
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item.mega-menu-clear {
@@ -3463,7 +3463,7 @@ p {
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item ul li a {
   display: block;
   margin: 0px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   text-decoration: none;
@@ -3502,7 +3502,7 @@ p {
   margin-bottom: 20px;
 }
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a span.product-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -3578,7 +3578,7 @@ p {
   background: none;
 }
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   border-color: #ededed;
   border-style: solid;
   border-width: 0 0 1px;
@@ -3631,7 +3631,7 @@ p {
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item ul li a {
   display: block;
   margin: 0px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   text-decoration: none;
@@ -3670,7 +3670,7 @@ p {
   margin-bottom: 20px;
 }
 .tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a span.product-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -3836,7 +3836,7 @@ p {
   padding-right: 50px;
 }
 .tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content ul.cart_list li .tzMiniCart_info a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -3873,7 +3873,7 @@ p {
   color: #ffffff !important;
 }
 .tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content ul.cart_list li.empty {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -3889,14 +3889,14 @@ p {
   border: none;
 }
 .tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content p.total strong {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #151515;
 }
 .tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content p.total span.amount {
   padding: 0;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #e5ae49;
@@ -3906,7 +3906,7 @@ p {
   margin: 0px;
 }
 .tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content p.buttons a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #ffffff;
@@ -3972,7 +3972,7 @@ p {
 }
 .tz-header .tz-headerBottom .tz-header-search .tz-header-search-form .searchform input {
   width: 100%;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -4480,7 +4480,7 @@ p {
   display: none;
 }
 .tzFooter .tzFooterTop .footerattr .widget p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4492,7 +4492,7 @@ p {
 }
 .tzFooter .tzFooterTop .footerattr .widget ul li {
   list-style: none;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4505,7 +4505,7 @@ p {
 .tzFooter .tzFooterTop .footerattr .widget select {
   width: 260px;
   max-width: 100%;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4526,7 +4526,7 @@ p {
 .tzFooter .tzFooterTop .footerattr .widget.widget_contact_info .tzwidget-contact span {
   display: block;
   margin: 15px 0px 0px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4538,7 +4538,7 @@ p {
   margin-right: 20px;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_calendar #calendar_wrap table#wp-calendar caption {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 23px;
@@ -4551,7 +4551,7 @@ p {
   border-color: #868686;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_calendar #calendar_wrap table#wp-calendar thead tr th {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 23px;
@@ -4563,7 +4563,7 @@ p {
   border-color: #868686;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_calendar #calendar_wrap table#wp-calendar tbody tr td {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4571,7 +4571,7 @@ p {
   padding: 5px 10px;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_calendar #calendar_wrap table#wp-calendar tfoot a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4581,7 +4581,7 @@ p {
   position: relative;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_search .searchform .Tzsearchform {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4666,7 +4666,7 @@ p {
   left: 0;
 }
 .tzFooter .tzFooterTop .footerattr .widget.dw_twitter .dw-twitter-inner .tweet-item .twitter-user a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4674,7 +4674,7 @@ p {
   text-decoration: none;
 }
 .tzFooter .tzFooterTop .footerattr .widget.dw_twitter .dw-twitter-inner .tweet-item .tweet-content {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4761,7 +4761,7 @@ p {
   clear: both;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_newsletterwidget {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4774,7 +4774,7 @@ p {
   position: relative;
 }
 .tzFooter .tzFooterTop .footerattr .widget.widget_newsletterwidget .newsletter form .newsletter-email {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 23px;
@@ -4831,7 +4831,7 @@ p {
   padding: 37px 0 33px;
 }
 .tzFooter .tzFooterBottom .tzCopyright p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #868686;
@@ -5260,7 +5260,7 @@ p {
   margin-bottom: 13px;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogQuote p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 20px;
   font-weight: 400;
   font-style: italic;
@@ -5276,7 +5276,7 @@ p {
   text-align: center;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogQuote .tzBlogQuote_info a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5286,7 +5286,7 @@ p {
   text-decoration: none;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogQuote .tzBlogQuote_info small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5297,7 +5297,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogQuote .tzBlogQuote_info span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5704,7 +5704,7 @@ p {
   margin: 0px 0px 22px;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogContent .tzInfomation a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5714,7 +5714,7 @@ p {
   text-decoration: none;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogContent .tzInfomation small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5725,7 +5725,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogContent .tzInfomation span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5736,7 +5736,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogContent p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
@@ -5744,7 +5744,7 @@ p {
 }
 .tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogContent a.tzreadmore {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   color: #FFFFFF;
   font-weight: 300;
@@ -5771,7 +5771,7 @@ p {
   width: 263px;
   background: none;
   border: 1px solid #dedede;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   line-height: 24px;
   font-weight: 300;
@@ -5806,7 +5806,7 @@ p {
   display: none;
 }
 .tzBlogDefault .wp-pagenavi span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -5825,7 +5825,7 @@ p {
   background: #e5ae49;
 }
 .tzBlogDefault .wp-pagenavi a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -5928,7 +5928,7 @@ p {
   font-family: "ElegantIcons";
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogQuote p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 20px;
   font-weight: 400;
   font-style: italic;
@@ -5944,7 +5944,7 @@ p {
   text-align: center;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogQuote .tzBlogQuote_info a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5954,7 +5954,7 @@ p {
   text-decoration: none;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogQuote .tzBlogQuote_info small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -5965,7 +5965,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogQuote .tzBlogQuote_info span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6341,7 +6341,7 @@ p {
   margin: 0px 0px 22px;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogContent .tzInfomation a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6351,7 +6351,7 @@ p {
   text-decoration: none;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogContent .tzInfomation small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6362,7 +6362,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogContent .tzInfomation span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6373,7 +6373,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogContent p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
@@ -6383,7 +6383,7 @@ p {
 }
 .tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogContent a.tzreadmore {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   color: #FFFFFF;
   font-weight: 300;
@@ -6462,7 +6462,7 @@ p {
   margin: 0 0 13px;
 }
 .tzBlogColumn .wp-pagenavi span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -6481,7 +6481,7 @@ p {
   background: #e5ae49;
 }
 .tzBlogColumn .wp-pagenavi a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -6888,7 +6888,7 @@ p {
   border-bottom: 1px solid #ededed;
 }
 .tzBlogSingle .tzBlogSingleContainer .tzBlogSingle_content .tzInfomation a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6898,7 +6898,7 @@ p {
   text-decoration: none;
 }
 .tzBlogSingle .tzBlogSingleContainer .tzBlogSingle_content .tzInfomation small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6909,7 +6909,7 @@ p {
   margin: 0 5px 0 0;
 }
 .tzBlogSingle .tzBlogSingleContainer .tzBlogSingle_content .tzInfomation span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -6925,7 +6925,7 @@ p {
   border-bottom: 1px solid #ededed;
 }
 .tzBlogSingle .tzBlogSingleContainer .tzBlogSingle_content .single-content p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 25px;
@@ -6943,7 +6943,7 @@ p {
   margin: 0px 8px 0px 0px;
 }
 .tzBlogSingle .tzBlogSingleContainer .tzBlogSingle_content .tzBlogSingle_bottom .tztag a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 25px;
@@ -7062,7 +7062,7 @@ p {
   text-transform: uppercase;
 }
 .tzBlogSingle .author .author-info span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   font-style: italic;
@@ -7072,7 +7072,7 @@ p {
   margin-bottom: 12px;
 }
 .tzBlogSingle .author .author-info p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 22px;
@@ -7159,7 +7159,7 @@ p {
   text-decoration: none;
 }
 .tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comments-datetime time {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   font-style: italic;
@@ -7167,7 +7167,7 @@ p {
   color: #b5b5b5;
 }
 .tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comment-edit-link {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 22px;
@@ -7180,7 +7180,7 @@ p {
   margin-right: 5px;
 }
 .tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comment-reply-link {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 22px;
@@ -7193,7 +7193,7 @@ p {
   margin-right: 5px;
 }
 .tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -7217,7 +7217,7 @@ p {
   text-transform: uppercase;
 }
 .tzBlogSingle .tzComments .comments-area .tzCommentForm .comment-respond form.comment-form p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -7240,7 +7240,7 @@ p {
   border-width: 0 0 1px;
   border-color: #ededed;
   border-style: solid;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   line-height: 24px;
   font-size: 14px;
@@ -7260,7 +7260,7 @@ p {
   border-width: 0 0 1px;
   border-style: solid;
   border-color: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 12px;
   font-weight: 300;
   color: #e5ae49;
@@ -7279,7 +7279,7 @@ p {
   border-width: 0 0 1px;
   border-color: #ededed;
   border-style: solid;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   line-height: 24px;
   font-size: 14px;
@@ -7304,7 +7304,7 @@ p {
   padding: 0px;
 }
 .tz-sidebar .widget label {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -7318,7 +7318,7 @@ p {
 }
 .tz-sidebar .widget ul li {
   list-style: none;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -7387,14 +7387,14 @@ p {
   color: #e5ae49;
 }
 .tz-sidebar .widget ul.product_list_widget li span.amount {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   line-height: 24px;
   color: #e5ae49;
 }
 .tz-sidebar .widget ul.product_list_widget li del span.amount {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   line-height: 24px;
@@ -7405,7 +7405,7 @@ p {
   color: #e5ae49;
 }
 .tz-sidebar .widget ul.product_list_widget li ins span.amount {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   line-height: 24px;
@@ -7445,7 +7445,7 @@ p {
   padding: 0px;
 }
 .tz-sidebar .widget .widget_shopping_cart_content ul.product_list_widget li .tzMiniCart_info span.quantity {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   line-height: 24px;
@@ -7507,7 +7507,7 @@ p {
   -ms-appearance: none;
   -o-appearance: none;
   border: 1px solid #dedede;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-style: italic;
   font-size: 14px;
@@ -7568,7 +7568,7 @@ p {
   width: 100%;
   background: none;
   border: 1px solid #dedede;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   line-height: 24px;
   font-weight: 300;
@@ -7610,7 +7610,7 @@ p {
   float: left;
   margin: 0px 10px 10px 0px;
   padding: 4px 11px 6px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px !important;
   text-decoration: none;
@@ -7689,7 +7689,7 @@ p {
   display: inline-block;
 }
 .tz-sidebar .widget.widget_text .textwidget {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -7787,7 +7787,7 @@ p {
   width: 100%;
   background: none;
   border: 1px solid #dedede;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   line-height: 24px;
   font-weight: 300;
@@ -7805,7 +7805,7 @@ p {
   float: left;
   margin: 0px 10px 10px 0px;
   padding: 4px 11px 6px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px !important;
   text-decoration: none;
@@ -8127,7 +8127,7 @@ p {
 }
 .tzPortfolio_Container .tzFilter .tzFillter_box a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -8228,7 +8228,7 @@ p {
   letter-spacing: 0.5px;
 }
 .tzPortfolio_Container .tzPortfolio .portfolio-item .tz-inner .tzPortfolioBox .tzPortfolio_hover .tzPortfolio_hover_info .tzcat {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -8318,7 +8318,7 @@ p {
 }
 .tzPortfolio_Container #loadajax .navigation .tzpagination2 span {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -8338,7 +8338,7 @@ p {
 }
 .tzPortfolio_Container #loadajax .navigation .tzpagination2 a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -8583,7 +8583,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 .tz-plazart-list li {
   list-style: none;
   border-bottom: 1px dashed #dbd9d9;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #444444;
@@ -8600,7 +8600,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 .tz-plazart-list.tzList-icon_highlight li {
   border: none;
   padding: 11px 0px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   color: #666666;
 }
@@ -8645,7 +8645,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzPricing_table.tzPricing_table_type1 .pricing-cn ul li {
   list-style: none;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -8700,7 +8700,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 .tzPricing_table.tzPricing_table_type1 .pricing-button a {
   display: block;
   text-align: center;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #ffffff;
@@ -8796,7 +8796,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 .tzPricing_table.tzPricing_table_type2 .pricing-cn ul li {
   border-top: 1px solid #f1f1f1;
   list-style: none;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -8811,7 +8811,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 .tzPricing_table.tzPricing_table_type2 .pricing-button a {
   display: inline-block;
   text-align: center;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #ffffff;
@@ -8851,7 +8851,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   overflow: hidden;
 }
 .tzSkill.tzskill-item-type1 .tzSkill-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 700;
   font-size: 14px;
   color: #222222;
@@ -8897,7 +8897,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0 0 5px;
 }
 .tzSkill.tzskill-item-type2 .tzSkill-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -8952,7 +8952,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   position: relative;
 }
 .tzSkill.tzskill-item-type3 .tzSkill-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 700;
   font-size: 14px;
   color: #222222;
@@ -9024,7 +9024,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzSkill.tzskill-item-type4 .chart .tzSkill-box .tzSkill-box-1 .percent {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 33px;
   font-weight: 300;
   color: #222222;
@@ -9034,7 +9034,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzSkill.tzskill-item-type4 .chart .tzSkill-box .tzSkill-box-1 .percent:after {
   content: '%';
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 20px;
   color: #222222;
   position: absolute;
@@ -9083,7 +9083,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzSkill.tzskill-item-type5 .chart .tzSkill-box .tzSkill-box-1 .percent {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 33px;
   font-weight: 300;
   color: #222222;
@@ -9093,7 +9093,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzSkill.tzskill-item-type5 .chart .tzSkill-box .tzSkill-box-1 .percent:after {
   content: '%';
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 20px;
   color: #222222;
   position: absolute;
@@ -9142,7 +9142,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzSkill.tzskill-item-type6 .chart .tzSkill-box .tzSkill-box-1 .percent {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 27px;
   font-weight: 300;
   color: #FFFFFF;
@@ -9152,7 +9152,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzSkill.tzskill-item-type6 .chart .tzSkill-box .tzSkill-box-1 .percent:after {
   content: '%';
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 16px;
   color: #FFFFFF;
   position: absolute;
@@ -9238,7 +9238,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 0.5px;
 }
 .tzShortcode-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 20px;
   font-weight: 500;
   color: #222222;
@@ -9592,7 +9592,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 2px;
 }
 .tzElement_Feature.tzFeature_type4 .tzFeature_description {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
 }
 .tzElement_Feature.tzFeature_type4 a.tzFeature_readmore {
   display: block;
@@ -10019,7 +10019,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 1px;
 }
 .tzElement_Ourteam.tzOurteam_type1 .tzOurteam_Info .tzOurteam_Job {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-style: italic;
   font-size: 14px;
@@ -10156,7 +10156,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 21px;
 }
 .tzElement_Ourteam.tzOurteam_type2 .tzOurteam_Info .tzOurteam_Name {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 15px;
   font-weight: 700;
   color: #222222;
@@ -10165,7 +10165,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   text-transform: uppercase;
 }
 .tzElement_Ourteam.tzOurteam_type2 .tzOurteam_Info .tzOurteam_Job {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   font-style: italic;
@@ -10439,7 +10439,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: auto;
 }
 .tzElement_Quote_Container.tzQuote_type1 .tzElement_Quote .tzQuote_Item .tzQuote_Content {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 18px;
   font-weight: 300;
   font-style: italic;
@@ -10461,13 +10461,13 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 1px;
 }
 .tzElement_Quote_Container.tzQuote_type1 .tzElement_Quote .tzQuote_Item .tzQuote_Info small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #FFFFFF;
 }
 .tzElement_Quote_Container.tzQuote_type1 .tzElement_Quote .tzQuote_Item .tzQuote_Info .tzQuote_Employment {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   font-style: italic;
@@ -10616,7 +10616,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: auto;
 }
 .tzElement_Quote_Container.tzQuote_type2 .tzElement_Quote .tzQuote_Item .tzQuote_Content {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-style: italic;
   font-size: 17px;
@@ -10645,7 +10645,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   display: none;
 }
 .tzElement_Quote_Container.tzQuote_type2 .tzElement_Quote .tzQuote_Item .tzQuote_Info .tzQuote_Employment {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   font-style: italic;
@@ -10776,7 +10776,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   display: none;
 }
 .tzElement_Quote_Container.tzQuote_type3 .tzElement_Quote .tzQuote_Item .tzQuote_Content {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 18px;
   font-weight: 300;
   font-style: italic;
@@ -10832,7 +10832,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   display: none;
 }
 .tzElement_Quote_Container.tzQuote_type3 .tzElement_Quote .tzQuote_Item .tzQuote_Info .tzQuote_Employment {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #FFFFFF;
@@ -10980,7 +10980,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: auto;
 }
 .tzElement_Quote_Container.tzQuote_type4 .tzElement_Quote .tzQuote_Item .tzQuote_Content {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 16px;
   color: #ffffff;
   margin-bottom: 35px;
@@ -11008,7 +11008,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   display: none;
 }
 .tzElement_Quote_Container.tzQuote_type4 .tzElement_Quote .tzQuote_Item .tzQuote_Info .tzQuote_Employment {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 13px;
   font-style: italic;
@@ -11167,13 +11167,13 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 1px;
 }
 .tzElement_Quote_Container.tzQuote_type5 .tzElement_Quote_Box .tzElement_Quote_Wrap .tzElement_Quote .tzQuote_Item .tzQuote_Info small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #222222;
 }
 .tzElement_Quote_Container.tzQuote_type5 .tzElement_Quote_Box .tzElement_Quote_Wrap .tzElement_Quote .tzQuote_Item .tzQuote_Info .tzQuote_Employment {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   font-style: italic;
@@ -11408,7 +11408,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin: 0 0 20px;
 }
 .tzElement_viewPost .tzViewPost_slider .tzViewPost_item .tzPost_info .tzPost_infomation a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   color: #c3c3c3;
@@ -11419,7 +11419,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   color: #e5ae49;
 }
 .tzElement_viewPost .tzViewPost_slider .tzViewPost_item .tzPost_info .tzPost_infomation span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   color: #c3c3c3;
@@ -11430,7 +11430,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin: 0px;
 }
 .tzElement_viewPost .tzViewPost_slider .tzViewPost_item .tzPost_info .tzPost_infomation small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   color: #c3c3c3;
@@ -11441,7 +11441,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-bottom: 27px;
 }
 .tzElement_viewPost .tzViewPost_slider .tzViewPost_item .tzPost_info .tzPost_readMore {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #e5ae49;
@@ -11533,7 +11533,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   display: none;
 }
 .tzElement_viewPost.tzElement_viewPost_slide-type2 .tzViewPost_slider .tzViewPost_item .tzPost_info p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
 }
 .tzElement_viewPost.tzElement_viewPost_slide-advance {
@@ -11609,7 +11609,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   text-transform: uppercase;
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_0 .tzViewPost_item_box .tzViewPost_info p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #FFFFFF;
@@ -11621,13 +11621,13 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0 18px;
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_0 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
   text-decoration: none;
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_0 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
 }
@@ -11701,7 +11701,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_1 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta a {
   display: block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
   text-decoration: none;
@@ -11709,7 +11709,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_1 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta span {
   display: block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
   margin-bottom: 13px;
@@ -11784,7 +11784,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_2 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta a {
   display: block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
   text-decoration: none;
@@ -11792,7 +11792,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_2 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta span {
   display: block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
   margin-bottom: 13px;
@@ -11867,7 +11867,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0 18px;
 }
 .tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_3 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #FFFFFF;
   text-decoration: none;
@@ -11978,7 +11978,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin: 0 0 8px;
 }
 .tzElement_viewPost .tzViewPost_Grid .tzPost_Item .tzPost_Box .tzPost_Content .tzPost_info .tzPost_infomation a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   font-style: italic;
@@ -11986,7 +11986,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   text-decoration: none;
 }
 .tzElement_viewPost .tzViewPost_Grid .tzPost_Item .tzPost_Box .tzPost_Content .tzPost_info .tzPost_infomation small {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   font-weight: 300;
   font-style: italic;
@@ -12016,7 +12016,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   left: 0;
 }
 .tzElement_viewPost .tzViewPost_Grid .tzPost_Item .tzPost_Box .tzPost_Content .tzPost_info .tzPost_readMore {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #e5ae49;
@@ -12045,7 +12045,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzPortfolio_Grid .tzfilter .tzFillter_box a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -12142,7 +12142,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 0.5px;
 }
 .tzPortfolio_Grid .tzPortfolioGrid_Content .tzPortfolioGrid-item .tz-inner .tzPortfolioBox .tzPortfolio_hover .tzPortfolio_hover_info .tzcat {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -12271,7 +12271,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   letter-spacing: 0.5px;
 }
 .tzPortfolio_slide .tzPortfolio_slide_item .tzPortfolio_hover .tzPortfolio_hover_info .tzcat {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -12502,7 +12502,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 .tzPortfolio_slick .tzPortfolio_slick_item .tzPortfolioslick_hover .tzPortfolioslick_table .tzPortfolioslick_table_cell span.tzcat {
   display: block;
   text-align: center;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 12px;
   font-weight: 300;
   font-style: italic;
@@ -12587,7 +12587,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 /* 11.15 Button */
 .vc_btn3 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 700;
   text-transform: uppercase;
   border-width: 2px !important;
@@ -12951,7 +12951,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   position: relative;
 }
 .vc_tta-tabs .vc_tta-tabs-container ul.vc_tta-tabs-list li.vc_tta-tab a span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 500;
   font-size: 17px;
   color: #222222;
@@ -13476,7 +13476,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0;
 }
 .tzElement-newsletter p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 18px;
   font-weight: 300;
   color: #ffffff;
@@ -13488,7 +13488,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0;
 }
 .tzElement-newsletter .newsletter form table tbody tr td input {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 13px;
   color: #e5ae49;
   font-weight: 300;
@@ -13657,7 +13657,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-bottom: 13px;
 }
 .tzElement_Category_Slide_Container.tzCategory_Slide_in_grid .tzElement_Category_Slide .tzCategory_Slide_Item a .tzCategory_Slide_Item_Content .tzCategory_Slide_Item_Content_box h5 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   margin: 0;
@@ -13787,7 +13787,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-bottom: 3px;
 }
 .tzElement_viewService .tzView_Service_Slide .tzView_Service_Slide_Item .tzView_Service_Content a.tzViewService-readmore {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 13px;
   color: #e5ae49;
@@ -14026,7 +14026,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -14085,7 +14085,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -14171,7 +14171,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 9px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -14217,7 +14217,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: 30px;
   padding: 3px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -14534,7 +14534,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   text-decoration: none;
 }
 .TzPage_Default .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comments-datetime time {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   font-style: italic;
@@ -14542,7 +14542,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   color: #b5b5b5;
 }
 .TzPage_Default .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comment-edit-link {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 22px;
@@ -14555,7 +14555,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-right: 5px;
 }
 .TzPage_Default .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comment-reply-link {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 22px;
@@ -14568,7 +14568,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-right: 5px;
 }
 .TzPage_Default .tzComments .comments-area .tzCommentContent ol.comment-list li article p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -14591,7 +14591,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0px;
 }
 .TzPage_Default .tzComments .comments-area .tzCommentForm .comment-respond form.comment-form p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 24px;
@@ -14619,7 +14619,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   -ms-border-radius: 2px;
   -o-border-radius: 2px;
   border-radius: 2px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   line-height: 24px;
   font-size: 14px;
@@ -14661,7 +14661,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   -ms-border-radius: 2px;
   -o-border-radius: 2px;
   border-radius: 2px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   line-height: 24px;
   font-size: 14px;
@@ -14866,7 +14866,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   background: url(images/orderby.png);
   background-repeat: no-repeat;
   background-position: 174px 16px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -14882,7 +14882,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzshop-wrap .grid_pagination_block p.woocommerce-result-count {
   float: left;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -14902,7 +14902,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzshop-wrap .grid_pagination_block .tzview-style label {
   float: left;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 14px;
@@ -14927,7 +14927,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   position: absolute;
   top: -40px;
   left: 50%;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 12px;
   font-weight: 400;
   color: #ffffff;
@@ -14987,7 +14987,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   position: absolute;
   top: -40px;
   left: 50%;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 12px;
   font-weight: 400;
   color: #ffffff;
@@ -15134,7 +15134,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -15193,7 +15193,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -15279,7 +15279,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 9px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -15325,7 +15325,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: 30px;
   padding: 3px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -15694,7 +15694,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin: 17px 0 0;
 }
 .tzshop-wrap .product-list ul.products li.tzShop-item .tzShop-item_inner .tzShop-item_info .tzShop-item_des p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
@@ -15721,7 +15721,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   -o-border-radius: 20px;
   border-radius: 20px;
   background: #c7c7c7;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -15749,7 +15749,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   -o-border-radius: 20px;
   border-radius: 20px;
   background: #c7c7c7;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -15776,7 +15776,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   -o-border-radius: 20px;
   border-radius: 20px;
   background: #c7c7c7;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -15993,7 +15993,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   border: none;
 }
 .tzshop-wrap .woocommerce-pagination ul.page-numbers li span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -16014,7 +16014,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   border-color: #e5ae49;
 }
 .tzshop-wrap .woocommerce-pagination ul.page-numbers li a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -16328,7 +16328,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   color: #f5d608;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .woocommerce-product-rating a.woocommerce-review-link {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #b5b5b5;
@@ -16375,7 +16375,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-right: 10px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info form.cart .quantity input {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -16390,7 +16390,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 70px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info form.cart button {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16438,7 +16438,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   float: left;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info p.cart a {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16463,7 +16463,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-bottom: 0px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info form.variations_form table.variations tbody tr td label {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 16px;
   font-weight: 400;
   color: #666666;
@@ -16471,7 +16471,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   text-transform: capitalize;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info form.variations_form table.variations tbody tr td.value select {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -16485,7 +16485,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 7px 10px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info form.variations_form table.variations tbody tr td.value a.reset_variations {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -16534,7 +16534,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   clear: both;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info p.out-of-stock {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 20px;
@@ -16549,7 +16549,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .yith-wcwl-add-to-wishlist .yith-wcwl-add-button a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16582,7 +16582,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16612,7 +16612,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16640,7 +16640,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding-top: 44px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .product_meta span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -16662,7 +16662,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin-top: 25px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .product_share span {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -16761,7 +16761,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product.product-type-grouped .tzShopDetail_info .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16801,7 +16801,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product.product-type-variable .tzShopDetail_info .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16837,7 +16837,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product.outofstock .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -16937,7 +16937,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   background: none;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel h2 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 20px;
   color: #222222;
@@ -16997,13 +16997,13 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #review_form_wrapper #review_form .comment-respond h3.comment-reply-title {
   font-size: 20px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   color: #222222;
   margin-bottom: 10px;
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #review_form_wrapper #review_form .comment-respond form#commentform p label {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 14px;
   color: #222222;
@@ -17025,7 +17025,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   -ms-border-radius: 0;
   -o-border-radius: 0;
   border-radius: 0;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14px;
   color: #666666;
@@ -17033,7 +17033,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #review_form_wrapper #review_form .comment-respond form#commentform p.form-submit input {
   display: inline-block;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 400;
   color: #FFFFFF;
@@ -17159,7 +17159,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -17218,7 +17218,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -17304,7 +17304,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 9px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -17350,7 +17350,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: 30px;
   padding: 3px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -17670,7 +17670,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -17729,7 +17729,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -17815,7 +17815,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 9px 0;
   background: #e5ae49;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #ffffff;
@@ -17861,7 +17861,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   height: 30px;
   padding: 3px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -18086,14 +18086,14 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
 }
 /* 13.6 Cart */
 .woocommerce .woocommerce-message {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
   color: #666666;
 }
 .woocommerce ul.woocommerce-error li {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
@@ -18182,7 +18182,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   font-size: 14px;
   color: #666666 !important;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px;
   padding: 9px 15px;
   border: 1px solid #e0e0e0;
@@ -18201,7 +18201,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   font-size: 14px;
   color: #FFFFFF;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px;
   padding: 10px 30px;
   border: none;
@@ -18224,7 +18224,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   font-size: 14px;
   color: #666666 !important;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px !important;
   padding: 10px 15px !important;
   border: 1px solid #e0e0e0 !important;
@@ -18357,7 +18357,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -18416,7 +18416,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 3px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -18502,7 +18502,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   width: 106px;
   padding: 9px 0;
   background: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 12px;
   color: #666666;
@@ -18637,7 +18637,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   padding: 0px;
 }
 .woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn form.woocommerce-shipping-calculator .shipping-calculator-form p select {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -18652,7 +18652,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   border-radius: 2px;
 }
 .woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn form.woocommerce-shipping-calculator .shipping-calculator-form p input {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   color: #666666;
@@ -18671,7 +18671,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   font-size: 14px;
   color: #FFFFFF;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px;
   padding: 10px 30px;
   border: none;
@@ -18742,7 +18742,7 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   font-size: 14px;
   color: #FFFFFF;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px;
   padding: 10px 30px;
   border: none;
@@ -18835,7 +18835,7 @@ form#yith-wcwl-form table.wishlist_table tbody tr td.product-add-to-cart a {
   font-size: 14px;
   color: #FFFFFF !important;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px;
   padding: 10px 30px;
   border: none;
@@ -18907,7 +18907,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   color: #ffffff;
   font-size: 14px;
   font-weight: 300;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   line-height: 24px;
   border: none;
   padding: 10px 30px;
@@ -18994,7 +18994,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
 }
 /* 13.9 Checkout */
 .woocommerce-checkout .woocommerce .woocommerce-info {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
@@ -19008,7 +19008,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   color: #e5ae49;
 }
 .woocommerce-checkout .woocommerce ul.woocommerce-error li {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   line-height: 24px;
   color: #666666;
@@ -19319,7 +19319,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   -ms-border-radius: 25px;
   -o-border-radius: 25px;
   border-radius: 25px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-weight: 300;
   font-size: 14;
   line-height: 24px;
@@ -19345,7 +19345,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   background-color: rgba(0, 0, 0, 0.4) !important;
 }
 .tzText_line0 {
-  font-family: 'Ubuntu', sans-serif !important;
+  font-family: 'Cinzel', serif !important;
   font-weight: 400 !important;
   color: #FFFFFF !important;
 }
@@ -19355,7 +19355,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   color: #FFFFFF !important;
 }
 .tzText_line2 {
-  font-family: 'Ubuntu', sans-serif !important;
+  font-family: 'Cinzel', serif !important;
   font-weight: 300 !important;
   color: #FFFFFF !important;
 }
@@ -19365,7 +19365,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   border-style: solid !important;
   border-color: #e5ae49 !important;
   color: #ffffff !important;
-  font-family: 'Ubuntu', sans-serif !important;
+  font-family: 'Cinzel', serif !important;
   font-weight: 700 !important;
   text-transform: uppercase !important;
   border-radius: 25px !important;
@@ -19377,7 +19377,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   border-style: solid !important;
   border-color: #e5ae49 !important;
   color: #e5ae49 !important;
-  font-family: 'Ubuntu', sans-serif !important;
+  font-family: 'Cinzel', serif !important;
   font-weight: 700 !important;
   text-transform: uppercase !important;
   border-radius: 25px !important;
@@ -19413,7 +19413,7 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
 .page-404 .error .bug-content a.go-back {
   display: block;
   text-align: center;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 16px;
   color: #666;
 }
