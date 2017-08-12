@@ -159,6 +159,13 @@
   background-color: #8B191E !important;
 }
 
+.font-english {
+  font-family: 'Cinzel', serif;
+}
+.font-vietnamese {
+  font-family: 'Cormorant Garamond', serif;
+}
+
 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
   display: inline-block;
   float: none !important;
