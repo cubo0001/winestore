@@ -157,7 +157,6 @@
   position: fixed !important;
   width: 100%;
   background-color: #8B191E !important;
-  height: 155px;
 }
 
 .font-english {
@@ -8399,6 +8398,7 @@ p {
   -moz-transform: scale(1);
   -o-transform: scale(1);
   transform: scale(1);
+  padding-top:150px;
 }
 .mfp-zoom-in.mfp-ready.mfp-bg {
   opacity: 1;
