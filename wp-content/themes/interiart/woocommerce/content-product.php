@@ -81,7 +81,7 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] ) {
                 <a href="<?php the_permalink();?>"><?php esc_attr_e('View Detail','interiart')?></a>
             </div>
         </div>
-        <div class="tzProduct-item_info" style="cursor: pointer;" onclick="window.location='<?php the_permalink();?>';">
+        <div class="tzProduct-item_info">
             <h3 class="tzProduct-item_title">
                 <a href="<?php the_permalink();?>"><?php the_title();?></a>
             </h3>
