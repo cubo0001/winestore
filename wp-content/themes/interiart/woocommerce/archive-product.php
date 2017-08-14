@@ -113,7 +113,9 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
                         <li><a href="/ruou-vang/tim-theo-gia/5000000">Trên 5.000.000 đ</a></li>
                     </ul>
                 </div>
-            <?php }
+            <?php
+                break;
+            }
         }
 
         foreach($find_location_url as $url) {
@@ -128,7 +130,9 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
                     </ul>
                 </div>
 
-            <?php }
+            <?php
+                break;
+            }
         } ?>
 
 <div class="tzshop-wrap">
