@@ -78,10 +78,10 @@
 
 .image-contact {
   content: url(../../uploads/2017/08/image-contact.png);
-  width: 100px;
+  width: 160px;
   display: inline-block;
   margin-left: 80px;
-  margin-top: 35px;
+  margin-top: 30px;
 }
 
 .woocommerce-Price-amount {
