@@ -75,6 +75,15 @@
  */
 /* FONT PATH
  * -------------------------- */
+
+.image-contact {
+  content: url(../../uploads/2017/08/image-contact.png);
+  width: 100px;
+  display: inline-block;
+  margin-left: 80px;
+  margin-top: 35px;
+}
+
 .woocommerce-Price-amount {
   display: none;
 }

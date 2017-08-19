@@ -244,6 +244,7 @@ function tzinteriart_header($atts) {
                     }
                     ?>
                 </a>
+                <div class="image-contact"></div>
                 <?php
                 if (class_exists( 'WooCommerce')):
                     ?>
