@@ -14,5 +14,11 @@ jQuery(document).ready(function() {
         if (jQuery(window).scrollTop() < 186) {
             jQuery('.nav-menu-find-price').removeClass('hold-navbar');
         }
+        if (jQuery(window).scrollTop() > 446) {
+            jQuery('.row-under-slide').addClass('hold-row-under-slide');
+        }
+        if (jQuery(window).scrollTop() < 446) {
+            jQuery('.row-under-slide').removeClass('hold-row-under-slide');
+        }
     });
 });

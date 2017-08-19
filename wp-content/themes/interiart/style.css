@@ -76,6 +76,19 @@
 /* FONT PATH
  * -------------------------- */
 
+.row-under-slide {
+  width: 100%;
+  height: 3px;
+  background-color: #e6ba5b;
+  top: 530px;
+  z-index: 100;
+  position: absolute;
+}
+
+.hold-row-under-slide {
+  position: fixed;
+  top: 115px !important;
+}
 .image-contact {
   content: url(../../uploads/2017/08/image-contact.png);
   width: 160px;
