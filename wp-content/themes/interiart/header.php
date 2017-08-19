@@ -30,4 +30,9 @@
     <script lang="javascript">(function() {var pname = ( (document.title !='')? document.title : document.querySelector('h1').innerHTML );var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async=1; ga.src = '//live.vnpgroup.net/js/web_client_box.php?hash=a4dfd1099734b76ab13dcd859e17e2d8&data=eyJzc29faWQiOjQ5NzE4MjYsImhhc2giOiIzY2QwOTZhZGUzMWRhOGQwYjc3MzQ0ODFiZWQwZDdkZCJ9&pname='+pname;var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();</script>
 </head>
 <body id="bd" <?php body_class(); ?>>
+<?php $homepage_url = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+      if($homepage_url === 'http://winestore1977.com/') {
+
+?>
     <div class="row-under-slide"></div>
+<?php } ?>
