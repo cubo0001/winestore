@@ -4487,7 +4487,8 @@ p {
  * -----------------------------------------------------------------------------
  */
 .tzFooter .tzFooterTop {
-  background-image: url(images/background_footer.png);
+  /*background-image: url(images/background_footer.png);*/
+  background-color: #F9E2C0;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -4519,7 +4520,7 @@ p {
   font-weight: 700;
   font-size: 14px;
   line-height: 27px;
-  color: #ffffff;
+  color: #1f1f1f;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
