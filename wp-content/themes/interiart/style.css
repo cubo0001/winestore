@@ -84,7 +84,7 @@
 @media(min-width: 321px) and (max-width: 768px) {
 
 }
-@media(min-width: 320px) {
+@media(min-width: 320px) and (max-width: 321px) {
   .tz-header.tz-header-type-3 .tz-headerBottom nav ul.tz-nav li a {
     color: #182933 !important;
   }
