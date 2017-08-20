@@ -84,7 +84,10 @@
 @media(min-width: 321px) and (max-width: 768px) {
 
 }
-@media(min-width: 320px) and (max-width: 321px) {
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
   .tz-header.tz-header-type-3 .tz-headerBottom nav ul.tz-nav li a {
     color: #182933 !important;
   }
@@ -92,6 +95,7 @@
     color: #e5ae49 !important;
   }
 }
+
 .row-under-slide {
   width: 100%;
   height: 3px;
@@ -8448,7 +8452,7 @@ p {
   text-align: center;
 }
 .tzPortfolio_Single_Close i {
-  color: #ffffff !important;
+  color: #8B1922 !important;
   font-weight: bold;
   font-size: 30px;
   opacity: 1;
@@ -8499,7 +8503,7 @@ p {
 .tzPortfolio_Single .tzPortfolio_Single_Info ul li label {
   min-width: 100px;
   font-weight: 400;
-  color: #ffffff;
+  color: #000000;
   margin: 0;
   padding: 0;
 }
