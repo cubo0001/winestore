@@ -1119,4 +1119,13 @@ if( is_admin() ){
     /* theme demo importer */
     include_once( get_template_directory() . '/admin/tz-importer.php' );
 }
+
+add_filter( 'woocommerce_output_related_products_args', 'bbloomer_change_number_related_products' );
+
+function bbloomer_change_number_related_products( $args ) {
+
+    $args['posts_per_page'] = 5; // # of related products
+    $args['columns'] = 5; // # of columns per row
+    return $args;
+}
 ?>
