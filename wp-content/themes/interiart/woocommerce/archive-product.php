@@ -87,30 +87,30 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
 
 <?php
         $find_price_url = array(
-                'ruou-vang/tim-theo-gia',
-                'ruou-vang/tim-theo-gia/500-000-d',
-                'ruou-vang/tim-theo-gia/500000-999000',
-                'ruou-vang/tim-theo-gia/1000000-1999000',
-                'ruou-vang/tim-theo-gia/2000000-5000000',
-                'ruou-vang/tim-theo-gia/5000000'
+                'danh-muc/tim-theo-gia',
+                'danh-muc/tim-theo-gia/500-000-d',
+                'danh-muc/tim-theo-gia/500000-999000',
+                'danh-muc/tim-theo-gia/1000000-1999000',
+                'danh-muc/tim-theo-gia/2000000-5000000',
+                'danh-muc/tim-theo-gia/5000000'
         );
         $find_location_url = array(
-                'ruou-vang/tim-theo-xuat-xu',
-                'ruou-vang/tim-theo-xuat-xu/chile',
-                'ruou-vang/tim-theo-xuat-xu/phap',
-                'ruou-vang/tim-theo-xuat-xu/tay-ban-nha',
-                'ruou-vang/tim-theo-xuat-xu/y'
+                'danh-muc/tim-theo-xuat-xu',
+                'danh-muc/tim-theo-xuat-xu/chile',
+                'danh-muc/tim-theo-xuat-xu/phap',
+                'danh-muc/tim-theo-xuat-xu/tay-ban-nha',
+                'danh-muc/tim-theo-xuat-xu/y'
         );
         $current_url="http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
         foreach($find_price_url as $url) {
             if (strpos($current_url, $url)) { ?>
                 <div class="nav-menu-find-price">
                     <ul>
-                        <li><a href="/ruou-vang/tim-theo-gia/500-000-d">Dưới 500.000 đ</a></li>
-                        <li><a href="/ruou-vang/tim-theo-gia/500000-999000">500.000 đ – 999.000 đ</a></li>
-                        <li><a href="/ruou-vang/tim-theo-gia/1000000-1999000">1.000.000 đ – 1.999.000 đ</a></li>
-                        <li><a href="/ruou-vang/tim-theo-gia/2000000-5000000">2.000.000 đ – 5.000.000 đ</a></li>
-                        <li><a href="/ruou-vang/tim-theo-gia/5000000">Trên 5.000.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/500-000-d">Dưới 500.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/500000-999000">500.000 đ – 999.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/1000000-1999000">1.000.000 đ – 1.999.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/2000000-5000000">2.000.000 đ – 5.000.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/5000000">Trên 5.000.000 đ</a></li>
                     </ul>
                 </div>
             <?php
@@ -123,10 +123,10 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
                 ?>
                 <div class="nav-menu-find-price">
                     <ul>
-                        <li><a href="/ruou-vang/tim-theo-xuat-xu/chile">Chile</a></li>
-                        <li><a href="/ruou-vang/tim-theo-xuat-xu/phap">Pháp</a></li>
-                        <li><a href="/ruou-vang/tim-theo-xuat-xu/tay-ban-nha">Tây Ban Nha</a></li>
-                        <li><a href="/ruou-vang/tim-theo-xuat-xu/y">Ý</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/chile">Chile</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/phap">Pháp</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/tay-ban-nha">Tây Ban Nha</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/y">Ý</a></li>
                     </ul>
                 </div>
 
