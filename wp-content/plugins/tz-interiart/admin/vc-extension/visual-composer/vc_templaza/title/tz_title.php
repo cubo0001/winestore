@@ -37,7 +37,8 @@ function tzinteriart_title($atts) {
             if($tz_color_title != ''){
                 echo 'style="color:'.esc_attr($tz_color_title).'"';
             }
-            ?>><?php
+            ?>>
+                <h2><?php
                 if($tz_type == '1'){
                     echo '{ ';
                 }
@@ -45,7 +46,7 @@ function tzinteriart_title($atts) {
                 if($tz_type == '1'){
                     echo ' }';
                 }
-                ?>
+                ?></h2>
             </span>
             <?php
         }

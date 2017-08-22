@@ -76,6 +76,10 @@
 /* FONT PATH
  * -------------------------- */
 
+.category-description {
+  text-align: center;
+}
+
 .woocommerce ul.products li.product .tzProduct-item_inner:hover .tzProduct-item_image .tzProduct-item_overlay, .woocommerce ul.products li.product .tzProduct-item_inner:hover .tzProduct-item_info, .tzshop-wrap .product-grid ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_image .tzShop-item_overlay, .tzshop-wrap .product-grid ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_info, .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_images #tzShopDetail_slide ul li::after, .related ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_image .tzShop-item_overlay, .related ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_info {
   background-color: rgba(255, 255, 255, 0.1) !important;
 }

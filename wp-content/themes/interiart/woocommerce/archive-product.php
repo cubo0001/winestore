@@ -164,6 +164,9 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
                 if ( have_posts() ) :
                     if ( woocommerce_products_will_display() ) {
                         ?>
+                       <div class="category-description">
+                           <?php echo category_description(); ?>
+                       </div>
                         <div class="grid_pagination_block">
                             <?php
                             /**
