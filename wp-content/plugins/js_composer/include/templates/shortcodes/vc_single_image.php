@@ -219,6 +219,8 @@ if ( 'yes' === $add_caption && '' !== $caption ) {
 	$html .= '<figcaption class="vc_figure-caption">' . esc_html( $caption ) . '</figcaption>';
 }
 
+$html .= '<div class="wpb_single_image-overlay"></div>';
+
 $output = '
 	<div class="' . esc_attr( trim( $css_class ) ) . '">
 		' . wpb_widget_title( array( 'title' => $title, 'extraclass' => 'wpb_singleimage_heading' ) ) . '

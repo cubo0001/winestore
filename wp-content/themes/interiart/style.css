@@ -76,6 +76,37 @@
 /* FONT PATH
  * -------------------------- */
 
+.wpb_singleimage_heading {
+  position: absolute;
+  right: 30px;
+  top: 32px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: #e5ae49;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  z-index: 10;
+}
+
+.wpb_single_image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.vc_single_image-img{
+  transform: scale(1);
+  transition: all 0.5s ease-in-out 0s;
+}
+
+.wpb_wrapper:hover .vc_single_image-img{
+  transform: scale(0.9);
+}
+
 .woocommerce ul.products li.product .tzProduct-item_inner:hover .tzProduct-item_image .tzProduct-item_overlay, .woocommerce ul.products li.product .tzProduct-item_inner:hover .tzProduct-item_info, .tzshop-wrap .product-grid ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_image .tzShop-item_overlay, .tzshop-wrap .product-grid ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_info, .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_images #tzShopDetail_slide ul li::after, .related ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_image .tzShop-item_overlay, .related ul.products li.tzShop-item .tzShop-item_inner:hover .tzShop-item_info {
   background-color: rgba(255, 255, 255, 0.1) !important;
 }
@@ -83,6 +114,14 @@
 @media(min-width: 769px) {
   .display-products {
     margin-left: 190px;
+  }
+  .navbar-fixed {
+    top: 0;
+    z-index: 100;
+    position: fixed !important;
+    width: 100%;
+    background-color: #8B191E !important;
+    height: 115px;
   }
 }
 @media(min-width: 321px) and (max-width: 768px) {
@@ -196,14 +235,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
   color: #182933;
   border-right: 1px solid #212121;
   padding-right: 8px;
-}
-.navbar-fixed {
-  top: 0;
-  z-index: 100;
-  position: fixed !important;
-  width: 100%;
-  background-color: #8B191E !important;
-  height: 115px;
 }
 
 .font-english {
@@ -8606,8 +8637,9 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   position: relative;
 }
 .vc_row .vc_column_container {
-  padding-left: 15px;
-  padding-right: 15px;
+  /*padding-left: 15px;*/
+  /*padding-right: 15px;*/
+  padding: 0 1px 1px 0;
 }
 .vc_row .vc_column_container > .vc_column-inner {
   padding: 0;
@@ -20494,9 +20526,6 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   }
 }
 @media (max-width: 480px) {
-  .vc_col-sm-3 {
-    width: 100% !important;
-  }
   .wpb_text_column.tzResponsive_padding {
     padding-left: 15px !important;
     padding-right: 15px !important;
