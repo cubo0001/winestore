@@ -198,6 +198,7 @@ if ( $link ) {
 		unset( $a_attrs['class'] );
 	}
 	$html = '<a ' . vc_stringify_attributes( $a_attrs ) . ' class="' . $wrapperClass . '">' . $img['thumbnail'] . '</a>';
+    $html .= '<div class="wpb_single_image-overlay"></div>';
 } else {
 	$html = '<div class="' . $wrapperClass . '">' . $img['thumbnail'] . '</div>';
 }
@@ -218,8 +219,6 @@ if ( in_array( $source, array( 'media_library', 'featured_image' ) ) && 'yes' ==
 if ( 'yes' === $add_caption && '' !== $caption ) {
 	$html .= '<figcaption class="vc_figure-caption">' . esc_html( $caption ) . '</figcaption>';
 }
-
-$html .= '<div class="wpb_single_image-overlay"></div>';
 
 $output = '
 	<div class="' . esc_attr( trim( $css_class ) ) . '">
