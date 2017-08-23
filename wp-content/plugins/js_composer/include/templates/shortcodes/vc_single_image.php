@@ -197,8 +197,7 @@ if ( $link ) {
 		$wrapperClass .= ' ' . $a_attrs['class'];
 		unset( $a_attrs['class'] );
 	}
-	$html = '<a ' . vc_stringify_attributes( $a_attrs ) . ' class="' . $wrapperClass . '">' . $img['thumbnail'] . '</a>';
-    $html .= '<div class="wpb_single_image-overlay"></div>';
+	$html = '<a ' . vc_stringify_attributes( $a_attrs ) . ' class="' . $wrapperClass . '">' . '<div class="wpb_single_image-overlay"></div>' . $img['thumbnail'] . '</a>';
 } else {
 	$html = '<div class="' . $wrapperClass . '">' . $img['thumbnail'] . '</div>';
 }
