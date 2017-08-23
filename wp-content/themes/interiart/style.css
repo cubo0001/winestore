@@ -135,15 +135,15 @@
 }
 @media(min-width: 321px) and (max-width: 768px) {
   .image-contact {
-    width: 100px !important;
+    width: 90px !important;
     margin-left: 15px !important;
-    margin-top: 12px !important;
+    margin-top: 15px !important;
   }
 }
 
 @media(min-width: 768px) and (max-width: 1024px) {
   .image-contact {
-    width: 100px !important;
+    width: 90px !important;
     margin-left: 32px !important;
     margin-top: 32px !important;
   }
