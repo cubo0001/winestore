@@ -133,19 +133,19 @@
     position: absolute;
   }
 }
-@media(min-width: 321px) and (max-width: 767px) {
+@media(min-width: 321px) and (max-width: 768px) {
   .image-contact {
-    width: 100px;
-    margin-left: 15px;
-    margin-right: 12px;
+    width: 100px !important;
+    margin-left: 15px !important;
+    margin-right: 12px !important;
   }
 }
 
 @media(min-width: 768px) and (max-width: 1024px) {
   .image-contact {
-    width: 100px;
-    margin-left: 32px;
-    margin-right: 32px;
+    width: 100px !important;
+    margin-left: 32px !important;
+    margin-right: 32px !important;
   }
 }
 
