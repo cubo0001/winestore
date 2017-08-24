@@ -260,7 +260,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 
 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
   display: inline-block;
-  float: none !important;
+  /*float: none !important;*/
 }
 @font-face {
   font-family: 'FontAwesome';
@@ -15150,9 +15150,9 @@ body > .vc_row-fluid > .no_container > .vc_col-sm-6 > .wpb_wrapper > .vc_row {
   margin: 0px;
   padding: 20px 15px;
 }
-.tzshop-wrap .product-grid ul.products li.tzShop-item.tzShop-4column {
-  width: 23%;
-}
+/*.tzshop-wrap .product-grid ul.products li.tzShop-item.tzShop-4column {*/
+  /*width: 23%;*/
+/*}*/
 .tzshop-wrap .product-grid ul.products li.tzShop-item.tzShop-3column {
   width: 33.33333%;
 }
@@ -20286,9 +20286,9 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   .tzshop-wrap .col-padding {
     float: none;
   }
-  .tzshop-wrap .col-padding .product-grid ul.products li.tzShop-item.tzShop-4column {
-    width: 50%;
-  }
+  /*.tzshop-wrap .col-padding .product-grid ul.products li.tzShop-item.tzShop-4column {*/
+    /*width: 50%;*/
+  /*}*/
   .tzshop-wrap .col-padding .product-grid ul.products li.tzShop-item.tzShop-3column {
     width: 50%;
   }
@@ -20953,9 +20953,9 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
     display: block;
     clear: both;
   }
-  .tzshop-wrap .col-padding .product-grid ul.products li.tzShop-item.tzShop-4column {
-    width: 100%;
-  }
+  /*.tzshop-wrap .col-padding .product-grid ul.products li.tzShop-item.tzShop-4column {*/
+    /*width: 100%;*/
+  /*}*/
   .tzshop-wrap .col-padding .product-grid ul.products li.tzShop-item.tzShop-3column {
     width: 100%;
   }
@@ -20993,9 +20993,9 @@ form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul li {
   .related ul.products li.tzShop-item {
     width: 100%;
   }
-  .woocommerce ul.products li.product {
-    width: 100%;
-  }
+  /*.woocommerce ul.products li.product {*/
+    /*width: 100%;*/
+  /*}*/
   .woocommerce .cart-collaterals .cross-sells ul.products li.tzShop-item {
     width: 100%;
   }
