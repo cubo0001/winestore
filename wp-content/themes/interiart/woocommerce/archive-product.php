@@ -88,29 +88,29 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
 <?php
         $find_price_url = array(
                 'danh-muc/tim-theo-gia',
-                'danh-muc/tim-theo-gia/500-000-d',
-                'danh-muc/tim-theo-gia/500000-999000',
-                'danh-muc/tim-theo-gia/1000000-1999000',
-                'danh-muc/tim-theo-gia/2000000-5000000',
-                'danh-muc/tim-theo-gia/5000000'
+                'danh-muc/tim-theo-gia/ruou-vang-duoi-500-000-d/',
+                'danh-muc/tim-theo-gia/ruou-vang-tu-500-000-d-999-000-d/',
+                'danh-muc/tim-theo-gia/ruou-vang-tu-1-000-000-d-1-999-000-d/',
+                'danh-muc/tim-theo-gia/ruou-vang-tu-2-000-000-d-5-000-000-d/',
+                'danh-muc/tim-theo-gia/ruou-vang-tren-5-000-000-d/'
         );
         $find_location_url = array(
                 'danh-muc/tim-theo-xuat-xu',
-                'danh-muc/tim-theo-xuat-xu/chile',
-                'danh-muc/tim-theo-xuat-xu/phap',
-                'danh-muc/tim-theo-xuat-xu/tay-ban-nha',
-                'danh-muc/tim-theo-xuat-xu/y'
+                'danh-muc/tim-theo-xuat-xu/ruou-vang-chile',
+                'danh-muc/tim-theo-xuat-xu/ruou-vang-phap',
+                'danh-muc/tim-theo-xuat-xu/ruou-vang-tay-ban-nha',
+                'danh-muc/tim-theo-xuat-xu/ruou-vang-y'
         );
         $current_url="http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
         foreach($find_price_url as $url) {
             if (strpos($current_url, $url)) { ?>
                 <div class="nav-menu-find-price">
                     <ul>
-                        <li><a href="/danh-muc/tim-theo-gia/500-000-d">Dưới 500.000 đ</a></li>
-                        <li><a href="/danh-muc/tim-theo-gia/500000-999000">500.000 đ – 999.000 đ</a></li>
-                        <li><a href="/danh-muc/tim-theo-gia/1000000-1999000">1.000.000 đ – 1.999.000 đ</a></li>
-                        <li><a href="/danh-muc/tim-theo-gia/2000000-5000000">2.000.000 đ – 5.000.000 đ</a></li>
-                        <li><a href="/danh-muc/tim-theo-gia/5000000">Trên 5.000.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/ruou-vang-duoi-500-000-d/">Dưới 500.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/ruou-vang-tu-500-000-d-999-000-d/">500.000 đ – 999.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/ruou-vang-tu-1-000-000-d-1-999-000-d/">1.000.000 đ – 1.999.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/ruou-vang-tu-2-000-000-d-5-000-000-d/">2.000.000 đ – 5.000.000 đ</a></li>
+                        <li><a href="/danh-muc/tim-theo-gia/ruou-vang-tren-5-000-000-d/">Trên 5.000.000 đ</a></li>
                     </ul>
                 </div>
             <?php
@@ -123,10 +123,10 @@ if(isset($_GET["type"]) && !empty($_GET["type"])) {
                 ?>
                 <div class="nav-menu-find-price">
                     <ul>
-                        <li><a href="/danh-muc/tim-theo-xuat-xu/chile">Chile</a></li>
-                        <li><a href="/danh-muc/tim-theo-xuat-xu/phap">Pháp</a></li>
-                        <li><a href="/danh-muc/tim-theo-xuat-xu/tay-ban-nha">Tây Ban Nha</a></li>
-                        <li><a href="/danh-muc/tim-theo-xuat-xu/y">Ý</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/ruou-vang-chile/">Chile</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/ruou-vang-phap/">Pháp</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/ruou-vang-tay-ban-nha/">Tây Ban Nha</a></li>
+                        <li><a href="/danh-muc/tim-theo-xuat-xu/ruou-vang-y/">Ý</a></li>
                     </ul>
                 </div>
 
