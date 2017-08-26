@@ -35,6 +35,7 @@
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-P7PRPVK');</script>
     <!-- End Google Tag Manager -->
+    <meta name="google-site-verification" content="Dh98B0f8p5zYMdqCyy0YF4ol5h_i1yIdv7I50nt2bQc" />
 </head>
 <body id="bd" <?php body_class(); ?>>
 <?php $homepage_url = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
