@@ -52,8 +52,8 @@ jQuery(window).load(function () {
 
     console.log($interiart_width_box);
     if($interiart_width_box < 480) {
-        jQuery('#tzShopDetail_slide').css('width',( $interiart_width_box - $interiart_width_left + 255 ) + 'px');
-        jQuery('#tzShopDetail_slide ul li').css('width',( ($interiart_width_box - $interiart_width_left + 255) ) + 'px');
+        jQuery('#tzShopDetail_slide').css('width',( $interiart_width_box - $interiart_width_left + 245 ) + 'px');
+        jQuery('#tzShopDetail_slide ul li').css('width',( ($interiart_width_box - $interiart_width_left + 245) ) + 'px');
     } else {
         jQuery('#tzShopDetail_slide').css('width',( $interiart_width_box - $interiart_width_left - 15 ) + 'px');
         jQuery('#tzShopDetail_slide ul li').css('width',( ($interiart_width_box - $interiart_width_left - 15) ) + 'px');
