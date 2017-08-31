@@ -141,8 +141,12 @@ if($interiart_sidebar == 'left' || $interiart_sidebar == 'right'){
                                 <span class="tzBlogQuote_char" data-icon="&#x7b;"></span>
                                 <?php the_content();?>
                                 <span class="tzBlogQuote_info">
-                                <a href="<?php echo get_author_posts_url(get_the_author_meta('ID'));?>"><?php  esc_html_e('by ','interiart');?><?php the_author();?></a>
-                                <small><i>|</i><?php echo get_the_date();?></small>
+                                    <span class="vcard author"></pre>
+                                        <a href="<?php echo get_author_posts_url(get_the_author_meta('ID'));?>"><?php  esc_html_e('by ','interiart');?><?php the_author();?></a>
+                                    </span>
+                                    <span class="updated">
+                                        <small><i>|</i><?php echo get_the_date();?></small>
+                                    </span>
                                     <?php
                                     if(get_the_category() !=false){
                                         ?>
@@ -228,10 +232,14 @@ if($interiart_sidebar == 'left' || $interiart_sidebar == 'right'){
                             }
                             ?>
                             <div class="tzBlogContent">
-                                <h3 class="title"><a href="<?php the_permalink();?>"><?php the_title();?></a></h3>
+                                <h3 class="title entry-title"><a href="<?php the_permalink();?>"><?php the_title();?></a></h3>
                                     <span class="tzInfomation">
-                                        <a href="<?php echo get_author_posts_url(get_the_author_meta('ID'));?>"><?php  esc_html_e('by ','interiart');?><?php the_author();?></a>
-                                        <small><i>|</i><?php echo get_the_date();?></small>
+                                        <span class="vcard author"></pre>
+                                            <a href="<?php echo get_author_posts_url(get_the_author_meta('ID'));?>"><?php  esc_html_e('by ','interiart');?><?php the_author();?></a>
+                                        </span>
+                                        <span class="updated">
+                                            <small><i>|</i><?php echo get_the_date();?></small>
+                                        </span>
                                         <small><i>|</i><?php echo esc_html($interiart_comment_count ->total_comments) . esc_html__(' Comments','interiart');?></small>
                                         <?php
                                         if(get_the_category() !=false){
