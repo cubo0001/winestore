@@ -143,9 +143,8 @@
 }
 @media(min-width: 321px) and (max-width: 767px) {
   .image-contact {
-    width: 90px !important;
-    margin-left: 15px !important;
-    margin-top: 15px !important;
+    width: 70px !important;
+    position: absolute;
   }
 
   .tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_images #tzShopDetailSlide-carousel {
@@ -163,7 +162,7 @@
 
 @media(min-width: 768px) and (max-width: 1024px) {
   .image-contact {
-    width: 90px !important;
+    width: 70px !important;
     margin-left: 32px !important;
     margin-top: 32px !important;
   }
@@ -195,7 +194,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
   content: url(../../uploads/2017/08/image-contact.png);
   width: 160px;
   display: inline-block;
-  margin-left: 80px;
+  margin-left: 30px;
   margin-top: 30px;
 }
 
