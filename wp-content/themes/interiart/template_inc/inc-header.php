@@ -220,7 +220,7 @@
                 }
                 ?>
             </a>
-            <div class="image-contact"></div>
+            <div class="image-contact pull-right"></div>
             <?php
             if (class_exists( 'WooCommerce')):
             ?>
