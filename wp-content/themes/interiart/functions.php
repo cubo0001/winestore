@@ -66,10 +66,10 @@ function interiart_register_back_end_scripts(){
 
 
     wp_register_script('interiart-portfolio-meta-boxes', get_template_directory_uri() . '/extension/assets/js/portfolio_meta_boxes.js', false, false, $in_footer=true);
-    wp_enqueue_script('interiart-portfolio-meta-boxes');
+    wp_enqueue_script('interiart-portfolio-meta-boxes', null, null, null,true);
 
     wp_register_script('interiart-portfolio-theme-option', get_template_directory_uri() . '/extension/assets/js/portfolio_theme_option.js', false, false, $in_footer=true);
-    wp_enqueue_script('interiart-portfolio-theme-option');
+    wp_enqueue_script('interiart-portfolio-theme-option', null, null, null, true);
 }
 
 //Register Front-End Styles
